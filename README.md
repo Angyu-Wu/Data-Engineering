@@ -7,4 +7,4 @@
 
 •	Displayed the OLAP data from ADS level with tables and visuals in Power BI.
 
-# Data are in csv file format, Spark SQL for Databricks, and Power BI dashboard.
+Data are in csv file format, Spark SQL for Databricks, and Power BI dashboard.
