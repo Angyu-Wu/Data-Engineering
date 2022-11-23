@@ -1,4 +1,4 @@
-# Data engineering project in Databricks & Business intelligence in Power BI
+# Data engineering in Databricks & Business intelligence in Power BI
 •	Designed a data warehouse with a star schema for a retail company.
 
 •	Loaded three CSV files from local storage into Databricks database.
