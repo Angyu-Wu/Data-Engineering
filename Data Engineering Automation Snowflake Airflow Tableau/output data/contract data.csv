@@ -1,0 +1,534 @@
+﻿PREDICTIT_ID,PREDICTIT_CONTRACT_ID,IMAGE,END_DATE,CONTRACT_NAME,CONTRACT_STATUS_NAME,CONTRACT_SHORT_NAME,LAST_TRADE_PRICE,BEST_BUY_YES_COST,BEST_BUY_NO_COST,BEST_SELL_YES_COST,BEST_SELL_NO_COST,LAST_CLOSE_PRICE
+6867,23545,""https://az620379.vo.msecnd.net/images/Contracts/small_9d46f92f-fc2d-406a-ade9-8cf2eb41e64e.png"",""NA"",""Libertarian"",""Open"",""Libertarian"",0.02,0.03,0.98,0.02,0.97,0.02
+6867,23546,""https://az620379.vo.msecnd.net/images/Contracts/small_2482e38e-80aa-4ff0-b1e2-9c29a0f100bc.png"",""NA"",""Republican"",""Open"",""Republican"",0.54,0.55,0.46,0.54,0.45,0.54
+6867,23547,""https://az620379.vo.msecnd.net/images/Contracts/small_dc2c8290-c5d5-4561-8c1a-31762c3972bb.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.45,0.45,0.56,0.44,0.55,0.45
+6867,23548,""https://az620379.vo.msecnd.net/images/Contracts/small_5a27f11b-6e7e-4dd6-9d6b-48dafd96b436.png"",""NA"",""Green"",""Open"",""Green"",0.02,0.03,0.98,0.02,0.97,0.02
+6874,23586,""https://az620379.vo.msecnd.net/images/Contracts/small_29b55b5a-6faf-4041-8b21-ab27421d0ade.png"",""2023-01-31T23:59:00"",""Democratic"",""Open"",""Democratic"",0.6,0.61,0.4,0.6,0.39,0.59
+6874,23587,""https://az620379.vo.msecnd.net/images/Contracts/small_77aea45d-8c93-46d6-b338-43a6af0ba8e1.png"",""2023-01-31T23:59:00"",""Republican"",""Open"",""Republican"",0.41,0.41,0.6,0.4,0.59,0.42
+6892,23689,""https://az620379.vo.msecnd.net/images/Contracts/small_dd7a25d1-8892-432c-9991-7047953ca799.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.23,0.24,0.77,0.23,0.76,0.24
+6892,23690,""https://az620379.vo.msecnd.net/images/Contracts/small_50585c92-15cf-424d-b497-1127cb3a6f5a.png"",""NA"",""Republican"",""Open"",""Republican"",0.79,0.79,0.22,0.78,0.21,0.78
+6953,24205,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""Will Kamala Harris file to run for president before the end of 2022?"",""Open"",""Harris files for President by 12/31/22?"",0.05,0.06,0.95,0.05,0.94,0.05
+6975,24361,""https://az620379.vo.msecnd.net/images/Contracts/small_3074a2e1-9027-4c1c-a50f-18db9c0a9bd4.jpg"",""2022-12-31T23:59:00"",""Will Mike Pence file to run for president before the end of 2022?"",""Open"",""Pence files for President by 12/31/22?"",0.09,0.09,0.92,0.08,0.91,0.09
+7013,24594,""https://az620379.vo.msecnd.net/images/Contracts/small_5ea99b02-9413-4222-aaec-823a2a2de73a.jpg"",""NA"",""Will a woman be elected U.S. president in 2024?"",""Open"",""Woman president in 2024?"",0.27,0.27,0.75,0.25,0.73,0.3
+7014,24595,""https://az620379.vo.msecnd.net/images/Contracts/small_b33b636e-de9d-4069-9d3c-7ccb352ee335.jpg"",""2023-12-31T23:59:00"",""Will Alexandria Ocasio-Cortez file to run for president before the end of 2023?"",""Open"",""AOC files for President before 2024?"",0.24,0.24,0.77,0.23,0.76,0.23
+7016,24600,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.28,0.29,0.72,0.28,0.71,0.28
+7016,24601,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.73,0.74,0.27,0.73,0.26,0.75
+7017,24602,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.71,0.71,0.3,0.7,0.29,0.72
+7017,24603,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.3,0.3,0.71,0.29,0.7,0.3
+7024,24628,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.89,0.89,0.12,0.88,0.11,0.89
+7024,24629,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.13,0.14,0.87,0.13,0.86,0.14
+7053,24782,""https://az620379.vo.msecnd.net/images/Contracts/small_20003de6-fa6b-4fb5-82be-aba2bc8c02f9.jpg"",""NA"",""Nikki Haley"",""Open"",""Haley"",0.05,0.06,0.95,0.05,0.94,0.05
+7053,24783,""https://az620379.vo.msecnd.net/images/Contracts/small_58b5f881-b587-4333-880b-024bc39922e8.jpg"",""NA"",""Mike Pompeo"",""Open"",""Pompeo"",0.04,0.04,0.97,0.03,0.96,0.03
+7053,24784,""https://az620379.vo.msecnd.net/images/Contracts/small_bbfdd2ed-95d5-43a3-bf5d-2403503705b0.jpg"",""NA"",""Mitt Romney"",""Open"",""Romney"",0.03,0.03,0.98,0.02,0.97,0.02
+7053,24785,""https://az620379.vo.msecnd.net/images/Contracts/small_405ebd48-c0d6-45ba-896d-d5cc56b464b9.jpg"",""NA"",""Ted Cruz"",""Open"",""Cruz"",0.02,0.03,0.98,0.02,0.97,0.03
+7053,24786,""https://az620379.vo.msecnd.net/images/Contracts/small_851a6d14-5083-4680-91f6-419ec2d02a14.jpg"",""NA"",""Tucker Carlson"",""Open"",""Carlson"",0.03,0.03,0.98,0.02,0.97,0.03
+7053,24787,""https://az620379.vo.msecnd.net/images/Contracts/small_36231f71-30ba-47c1-8f5d-c7481e014c11.jpg"",""NA"",""Donald Trump"",""Open"",""Trump"",0.34,0.35,0.66,0.34,0.65,0.36
+7053,24788,""https://az620379.vo.msecnd.net/images/Contracts/small_9fbc3103-49b8-4f93-a1ce-79ff5fe31957.jpg"",""NA"",""Tom Cotton"",""Open"",""Cotton"",0.02,0.03,0.98,0.02,0.97,0.03
+7053,24789,""https://az620379.vo.msecnd.net/images/Contracts/small_3074a2e1-9027-4c1c-a50f-18db9c0a9bd4.jpg"",""NA"",""Mike Pence"",""Open"",""Pence"",0.03,0.04,0.97,0.03,0.96,0.04
+7053,24790,""https://az620379.vo.msecnd.net/images/Contracts/small_2badfab5-24b6-4e6d-8988-19c135639222.jpg"",""NA"",""Donald Trump Jr."",""Open"",""Trump Jr."",0.02,0.02,0.99,0.01,0.98,0.01
+7053,24791,""https://az620379.vo.msecnd.net/images/Contracts/small_e3e5d1e1-db5f-4379-bf5b-af47e874e943.jpg"",""NA"",""Marco Rubio"",""Open"",""Rubio"",0.01,0.02,0.99,0.01,0.98,0.02
+7053,24792,""https://az620379.vo.msecnd.net/images/Contracts/small_683be142-e62f-4597-bc39-00fb2e2cb373.jpg"",""NA"",""Josh Hawley"",""Open"",""Hawley"",0.03,0.03,0.98,0.02,0.97,0.03
+7053,24793,""https://az620379.vo.msecnd.net/images/Contracts/small_958885c8-c04c-4ad3-b64e-fe33e9af83cc.jpg"",""NA"",""Tim Scott"",""Open"",""T. Scott"",0.02,0.03,0.98,0.02,0.97,0.03
+7053,24794,""https://az620379.vo.msecnd.net/images/Contracts/small_e3ff1357-c8f6-4498-a5d6-12580eca75b7.jpg"",""NA"",""Rick Scott"",""Open"",""R. Scott"",0.01,0.02,0.99,0.01,0.98,0.01
+7057,24807,""https://az620379.vo.msecnd.net/images/Contracts/small_4c64890a-503c-454c-b02e-732319f1459f.jpg"",""NA"",""Joe Biden"",""Open"",""Biden"",0.34,0.35,0.66,0.34,0.65,0.34
+7057,24808,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""NA"",""Kamala Harris"",""Open"",""Harris"",0.14,0.14,0.87,0.13,0.86,0.13
+7057,24809,""https://az620379.vo.msecnd.net/images/Contracts/small_8ee3b203-848a-44c2-928f-a29fe97685bc.jpg"",""NA"",""Bernie Sanders"",""Open"",""Sanders"",0.04,0.04,0.97,0.03,0.96,0.03
+7057,24810,""https://az620379.vo.msecnd.net/images/Contracts/small_b5d5cb16-9f8a-4cf0-a428-c84fda98a31d.jpg"",""NA"",""Hillary Clinton"",""Open"",""Clinton"",0.08,0.08,0.93,0.07,0.92,0.08
+7057,24811,""https://az620379.vo.msecnd.net/images/Contracts/small_87412471-a5b6-4b74-bcc4-685106982248.jpg"",""NA"",""Pete Buttigieg"",""Open"",""Buttigieg"",0.1,0.11,0.9,0.1,0.89,0.1
+7057,24812,""https://az620379.vo.msecnd.net/images/Contracts/small_322243ef-da30-4199-aef3-7bdf8175fbe4.jpg"",""NA"",""Elizabeth Warren"",""Open"",""Warren"",0.04,0.04,0.97,0.03,0.96,0.03
+7053,24813,""https://az620379.vo.msecnd.net/images/Contracts/small_8d271559-d751-448d-bacb-1a209e714bd4.png"",""NA"",""Larry Hogan"",""Open"",""Hogan"",0.02,0.03,0.98,0.02,0.97,0.02
+7053,24814,""https://az620379.vo.msecnd.net/images/Contracts/small_1d8cb077-b0ce-456e-aadc-57fc4d88dcd7.png"",""NA"",""Ron DeSantis"",""Open"",""DeSantis"",0.38,0.39,0.62,0.38,0.61,0.38
+7053,24815,""https://az620379.vo.msecnd.net/images/Contracts/small_4b2b5732-b84d-4ac6-b7da-9d3790c691e0.png"",""NA"",""Kristi Noem"",""Open"",""Noem"",0.03,0.03,0.98,0.02,0.97,0.02
+7057,24816,""https://az620379.vo.msecnd.net/images/Contracts/small_5b927e73-c6a1-474e-90b8-73e265392785.jpg"",""NA"",""A. Ocasio-Cortez"",""Open"",""AOC"",0.05,0.05,0.96,0.04,0.95,0.04
+7085,24914,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.73,0.73,0.28,0.72,0.27,0.74
+7085,24915,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.27,0.28,0.73,0.27,0.72,0.29
+7107,25057,""https://az620379.vo.msecnd.net/images/Contracts/small_25f9219c-6d4c-4d09-9953-0b32550216f4.png"",""NA"",""Republican"",""Open"",""Republican"",0.41,0.42,0.59,0.41,0.58,0.41
+7107,25058,""https://az620379.vo.msecnd.net/images/Contracts/small_04db95ab-2e1e-49af-8078-f990d0234487.jpg"",""NA"",""Democratic"",""Open"",""Democratic"",0.6,0.6,0.41,0.59,0.4,0.59
+7112,25081,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.37,0.38,0.63,0.37,0.62,0.39
+7112,25082,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.64,0.64,0.37,0.63,0.36,0.62
+7117,25113,""https://az620379.vo.msecnd.net/images/Contracts/small_f71d955e-49ba-44b0-85ad-b9a257f78ab8.jpg"",""NA"",""Abdel Fattah Al-Sisi"",""Open"",""Al-Sisi"",0.01,0.01,null,null,0.99,0.01
+7117,25114,""https://az620379.vo.msecnd.net/images/Contracts/small_e0023be2-e7bf-40e4-9064-b179836ea191.jpg"",""NA"",""Cyril Ramaphosa"",""Open"",""Ramaphosa"",0.01,0.02,0.99,0.01,0.98,0.01
+7117,25115,""https://az620379.vo.msecnd.net/images/Contracts/small_2f2d319a-1390-4e68-85da-dfe04e7ec5ec.jpg"",""NA"",""Uhuru Kenyatta"",""Open"",""Kenyatta"",0.99,0.99,0.02,0.98,0.01,0.97
+7117,25116,""https://az620379.vo.msecnd.net/images/Contracts/small_e030ac6a-4ab3-48cd-a530-14bcb99bc5ae.jpg"",""NA"",""Muhammadu Buhari"",""Open"",""Buhari"",0.01,0.01,null,null,0.99,0.01
+7117,25117,""https://az620379.vo.msecnd.net/images/Contracts/small_74eef98a-cc13-4766-9214-7d18608bca3f.jpg"",""NA"",""Félix Tshisekedi"",""Open"",""Tshisekedi"",0.01,0.01,null,null,0.99,0.01
+7117,25118,""https://az620379.vo.msecnd.net/images/Contracts/small_edc983dc-e55b-4ca3-9398-11defbfe68da.jpg"",""NA"",""Paul Kagame"",""Open"",""Kagame"",0.01,0.01,null,null,0.99,0.01
+7117,25119,""https://az620379.vo.msecnd.net/images/Contracts/small_60861d4c-1fff-42c1-ae9b-a0f7e4b068c9.jpg"",""NA"",""Abiy Ahmed"",""Open"",""Ahmed"",0.01,0.01,null,null,0.99,0.02
+7117,25120,""https://az620379.vo.msecnd.net/images/Contracts/small_5180eb7c-1bdc-4ae6-8332-a624032a7af0.jpg"",""NA"",""Emmerson Mnangagwa"",""Open"",""Mnangagwa"",0.01,0.01,null,null,0.99,0.01
+7117,25121,""https://az620379.vo.msecnd.net/images/Contracts/small_8bc31c1e-9811-4653-be8f-e4b592230015.jpg"",""NA"",""Nana Akufo-Addo"",""Open"",""Akufo-Addo"",0.01,0.01,null,null,0.99,0.01
+7117,25122,""https://az620379.vo.msecnd.net/images/Contracts/small_5aaa88c5-41db-404f-9491-ce7d5ab11ca4.jpg"",""NA"",""Abdelmadjid Tebboune"",""Open"",""Tebboune"",0.01,0.01,null,null,0.99,0.01
+7118,25123,""https://az620379.vo.msecnd.net/images/Contracts/small_50d81599-27a9-4528-9640-dbd7cd92661c.png"",""NA"",""Will Marjorie Taylor Greene be re-elected to the House in 2022?"",""Open"",""Greene re-elected to the House in 2022?"",0.94,0.95,0.06,0.94,0.05,0.95
+7130,25211,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.27,0.29,0.73,0.27,0.71,0.27
+7130,25212,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.74,0.74,0.27,0.73,0.26,0.74
+7131,25213,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.49,0.49,0.52,0.48,0.51,0.49
+7131,25214,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.53,0.53,0.48,0.52,0.47,0.52
+7132,25215,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.57,0.58,0.43,0.57,0.42,0.59
+7132,25216,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.43,0.44,0.57,0.43,0.56,0.42
+7136,25232,""https://az620379.vo.msecnd.net/images/Contracts/small_5f1bcacc-8162-4152-ab4a-475c68e7100c.jpg"",""2025-01-20T11:59:00"",""Will Joe Biden resign during his first term?"",""Open"",""Will Biden resign during his first term?"",0.25,0.25,0.76,0.24,0.75,0.25
+7158,25409,""https://az620379.vo.msecnd.net/images/Contracts/small_c4e2bbd1-f530-4037-9713-2f77f217990c.jpg"",""NA"",""Iowa"",""Open"",""Iowa"",0.03,0.04,0.97,0.03,0.96,0.03
+7158,25410,""https://az620379.vo.msecnd.net/images/Contracts/small_6cffeb7b-fc42-47bb-b764-a8c93163a41b.jpg"",""NA"",""Nevada"",""Open"",""Nevada"",0.35,0.37,0.65,0.35,0.63,0.35
+7158,25411,""https://az620379.vo.msecnd.net/images/Contracts/small_e2170e96-4e62-4543-96f8-ee541143d508.jpg"",""NA"",""South Carolina"",""Open"",""South Carolina"",0.05,0.04,0.97,0.03,0.96,0.05
+7158,25412,""https://az620379.vo.msecnd.net/images/Contracts/small_6908799e-f678-42a2-a637-9898f79ba842.jpg"",""NA"",""New Hampshire"",""Open"",""New Hampshire"",0.34,0.34,0.68,0.32,0.66,0.34
+7172,25473,""https://az620379.vo.msecnd.net/images/Contracts/small_ac98de21-a475-43d0-9670-58c6476361ff.png"",""NA"",""Dem. House & Senate"",""Open"",""D House & Senate"",0.22,0.22,0.79,0.21,0.78,0.21
+7172,25474,""https://az620379.vo.msecnd.net/images/Contracts/small_54348336-0cae-4a93-9248-15c75d4e7d54.png"",""NA"","""D House, R Senate""",""Open"","""D House, R Senate""",0.03,0.04,0.97,0.03,0.96,0.04
+7172,25475,""https://az620379.vo.msecnd.net/images/Contracts/small_a1d1426f-ffca-4d16-bce1-0b0b126567a6.png"",""NA"",""Rep. House & Senate"",""Open"",""R House & Senate"",0.39,0.39,0.62,0.38,0.61,0.39
+7172,25476,""https://az620379.vo.msecnd.net/images/Contracts/small_1ec3fffa-8fce-481f-bf2f-2df954c32fba.png"",""NA"","""R House, D Senate""",""Open"","""R House, D Senate""",0.46,0.47,0.54,0.46,0.53,0.47
+7176,25494,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.96,0.97,0.04,0.96,0.03,0.96
+7176,25495,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.02,0.03,0.98,0.02,0.97,0.02
+7176,25496,""https://az620379.vo.msecnd.net/images/Contracts/small_1ea28260-66ce-4e9d-8da4-f0eaa96c4319.jpg"",""NA"",""Independent"",""Open"",""Independent"",0.01,0.02,0.99,0.01,0.98,0.01
+7204,25698,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.95,0.95,0.06,0.94,0.05,0.95
+7204,25699,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.05,0.06,0.95,0.05,0.94,0.05
+7208,25711,""https://az620379.vo.msecnd.net/images/Contracts/small_7ff9f1b5-ab35-4b51-a013-0629cd1eb09e.png"",""NA"",""Republican"",""Open"",""Republican"",0.92,0.93,0.08,0.92,0.07,0.93
+7208,25712,""https://az620379.vo.msecnd.net/images/Contracts/small_0a6f9243-552a-4f7a-a253-088af5e83a68.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.06,0.08,0.94,0.06,0.92,0.07
+7209,25714,""https://az620379.vo.msecnd.net/images/Contracts/small_923f3c24-017d-491e-80d9-abe0a0f3fc8b.jpg"",""2022-12-31T10:59:00"",""Will Xi Jinping be re-elected CCP General Secretary before 2023?"",""Open"",""Xi re-elected CCP Gen. Sec. before 2023?"",0.82,0.88,0.18,0.82,0.12,0.82
+7210,25715,""https://az620379.vo.msecnd.net/images/Contracts/small_cd4545da-d0ed-4605-ad71-2c6ebdaf16fd.png"",""2022-12-31T10:59:00"",""Will Hu Chunhua be elected to the CCP Politburo Standing Committee before 2023?"",""Open"",""Hu Chunhua on Politburo St. Cte by 2023?"",0.82,0.82,0.23,0.77,0.18,0.82
+7211,25716,""https://az620379.vo.msecnd.net/images/Contracts/small_1d8cb077-b0ce-456e-aadc-57fc4d88dcd7.png"",""NA"",""Ron DeSantis"",""Open"",""DeSantis"",0.92,0.92,0.09,0.91,0.08,0.92
+7211,25717,""https://az620379.vo.msecnd.net/images/Contracts/small_5612d8e2-210c-4151-90ab-3a36b9a40675.jpg"",""NA"",""Val Demings"",""Open"",""Demings"",0.01,0.01,null,null,0.99,0.01
+7211,25718,""https://az620379.vo.msecnd.net/images/Contracts/small_df8a4623-7f44-449a-b9a2-5262e0bbf4ec.jpg"",""NA"",""Charlie Crist"",""Open"",""Crist"",0.08,0.09,0.92,0.08,0.91,0.09
+7211,25719,""https://az620379.vo.msecnd.net/images/Contracts/small_e8450a5e-eb91-472f-8295-19753657453b.jpg"",""NA"",""Nikki Fried"",""Open"",""Fried"",0.02,0.02,0.99,0.01,0.98,0.02
+7254,26022,""https://az620379.vo.msecnd.net/images/Contracts/small_74d5f4a5-9b25-462d-b2bc-c5046beee5f4.jpg"",""NA"",""30 or more"",""Open"",""30 or more"",0.01,0.01,null,null,0.99,0.01
+7254,26023,""https://az620379.vo.msecnd.net/images/Contracts/small_74d5f4a5-9b25-462d-b2bc-c5046beee5f4.jpg"",""NA"",""23 or fewer"",""Open"",""23 or fewer"",0.07,0.08,0.93,0.07,0.92,0.07
+7254,26024,""https://az620379.vo.msecnd.net/images/Contracts/small_74d5f4a5-9b25-462d-b2bc-c5046beee5f4.jpg"",""NA"",""24"",""Open"",""24"",0.09,0.09,0.92,0.08,0.91,0.08
+7254,26025,""https://az620379.vo.msecnd.net/images/Contracts/small_74d5f4a5-9b25-462d-b2bc-c5046beee5f4.jpg"",""NA"",""25"",""Open"",""25"",0.17,0.18,0.85,0.15,0.82,0.15
+7254,26026,""https://az620379.vo.msecnd.net/images/Contracts/small_74d5f4a5-9b25-462d-b2bc-c5046beee5f4.jpg"",""NA"",""26"",""Open"",""26"",0.22,0.24,0.78,0.22,0.76,0.23
+7254,26027,""https://az620379.vo.msecnd.net/images/Contracts/small_74d5f4a5-9b25-462d-b2bc-c5046beee5f4.jpg"",""NA"",""27"",""Open"",""27"",0.33,0.33,0.69,0.31,0.67,0.3
+7254,26028,""https://az620379.vo.msecnd.net/images/Contracts/small_74d5f4a5-9b25-462d-b2bc-c5046beee5f4.jpg"",""NA"",""28"",""Open"",""28"",0.16,0.18,0.84,0.16,0.82,0.16
+7254,26029,""https://az620379.vo.msecnd.net/images/Contracts/small_74d5f4a5-9b25-462d-b2bc-c5046beee5f4.jpg"",""NA"",""29"",""Open"",""29"",0.01,0.01,null,null,0.99,0.01
+7257,26044,""https://az620379.vo.msecnd.net/images/Contracts/small_e53ee1c4-f18e-41b0-afbd-afed9c39c30a.png"",""NA"",""Geoff Diehl"",""Open"",""Diehl"",0.05,0.05,0.96,0.04,0.95,0.05
+7257,26045,""https://az620379.vo.msecnd.net/images/Contracts/small_6a95c68b-1927-411d-9b68-83f255fb8e00.jpg"",""NA"",""Charlie Baker"",""Open"",""Baker"",0.01,0.01,null,null,0.99,0.01
+7257,26046,""https://az620379.vo.msecnd.net/images/Contracts/small_66e66456-0b60-44df-bfab-2548fa8be2d0.png"",""NA"",""Karyn Polito"",""Open"",""Polito"",0.01,0.01,null,null,0.99,0.01
+7257,26047,""https://az620379.vo.msecnd.net/images/Contracts/small_3e33df71-b815-4a72-9eb0-950692457664.png"",""NA"",""Benjamin Downing"",""Open"",""Downing"",0.01,0.01,null,null,0.99,0.01
+7258,26054,""https://az620379.vo.msecnd.net/images/Contracts/small_2538363e-c75d-4f89-b497-e502e2a5b926.png"",""NA"",""Donald Bolduc"",""Open"",""Bolduc"",0.66,0.66,0.47,0.53,0.34,0.6
+7258,26055,""https://az620379.vo.msecnd.net/images/Contracts/small_017c9c94-6f30-4762-aeac-437131342b91.png"",""NA"",""Kelly Ayotte"",""Open"",""Ayotte"",0.01,0.01,null,null,0.99,0.01
+7258,26056,""https://az620379.vo.msecnd.net/images/Contracts/small_04ec1a37-809e-4e03-bcaf-cbd7274e7f4f.png"",""NA"",""Chris Sununu"",""Open"",""Sununu"",0.01,0.01,null,null,0.99,0.01
+7257,26073,""https://az620379.vo.msecnd.net/images/Contracts/small_07b0976e-f773-4939-a7df-67ce126b0a12.png"",""NA"",""Maura Healey"",""Open"",""Healey"",0.96,0.96,0.06,0.94,0.04,0.96
+7257,26074,""https://az620379.vo.msecnd.net/images/Contracts/small_86366eba-c951-4ff5-948f-5d31799839fa.png"",""NA"",""Sonia Chang-Díaz"",""Open"",""Chang-Díaz"",0.01,0.01,null,null,0.99,0.01
+7257,26075,""https://az620379.vo.msecnd.net/images/Contracts/small_c0815948-f624-41d4-acc6-8b2c5cc9e188.png"",""NA"",""Ayanna Pressley"",""Open"",""Pressley"",0.01,0.01,null,null,0.99,0.01
+7257,26076,""https://az620379.vo.msecnd.net/images/Contracts/small_4d2b0c18-01fd-4d9f-9f99-e4f740002295.png"",""NA"",""Danielle Allen"",""Open"",""Allen"",0.01,0.01,null,null,0.99,0.01
+7257,26077,""https://az620379.vo.msecnd.net/images/Contracts/small_60cecb1e-823b-4b42-990b-b5d0d05688ee.jpg"",""NA"",""Joe Kennedy III"",""Open"",""Kennedy"",0.01,0.01,null,null,0.99,0.01
+7257,26078,""https://az620379.vo.msecnd.net/images/Contracts/small_cb9c6b3f-9416-4718-a133-44d6b4bf7d2b.png"",""NA"",""Jay Gonzalez"",""Open"",""Gonzalez"",0.01,0.01,null,null,0.99,0.01
+7266,26125,""https://az620379.vo.msecnd.net/images/Contracts/small_36231f71-30ba-47c1-8f5d-c7481e014c11.jpg"",""2022-12-31T23:59:00"",""Will Donald Trump file to run for president before the end of 2022?"",""Open"",""Trump files for President before 2023?"",0.54,0.55,0.48,0.52,0.45,0.52
+7274,26153,""https://az620379.vo.msecnd.net/images/Contracts/small_6feaa717-2cc0-49da-850e-3974668c10d4.jpg"",""NA"",""Will Sen. Lisa Murkowski be re-elected in 2022?"",""Open"",""Will Murkowski be re-elected?"",0.88,0.89,0.12,0.88,0.11,0.88
+7288,26255,""https://az620379.vo.msecnd.net/images/Contracts/small_5612d8e2-210c-4151-90ab-3a36b9a40675.jpg"",""NA"",""Val Demings"",""Open"",""Demings"",0.99,null,0.01,0.99,null,0.99
+7288,26256,""https://az620379.vo.msecnd.net/images/Contracts/small_e5ee7537-6fd7-4e94-adfa-db165f7b14f8.png"",""NA"",""Stephanie Murphy"",""Open"",""Murphy"",0.01,0.01,null,null,0.99,0.01
+7288,26257,""https://az620379.vo.msecnd.net/images/Contracts/small_c4b2bf43-806e-4523-ab5c-4903cbb9dab9.png"",""NA"",""Alan Grayson"",""Open"",""Grayson"",0.01,0.01,null,null,0.99,0.01
+7326,26549,""https://az620379.vo.msecnd.net/images/Contracts/small_3c10062b-0942-4fc3-9ace-bb6abdb790ff.jpg"",""NA"",""Donald Trump"",""Open"",""Trump"",0.02,0.03,0.98,0.02,0.97,0.02
+7326,26550,""https://az620379.vo.msecnd.net/images/Contracts/small_444bd468-8e17-452c-a31a-bc67b72006ab.png"",""NA"",""Steve Scalise"",""Open"",""Scalise"",0.06,0.07,0.94,0.06,0.93,0.06
+7326,26551,""https://az620379.vo.msecnd.net/images/Contracts/small_16fcdbec-984f-4659-8699-ae6ad321de3f.jpg"",""NA"",""Kevin McCarthy"",""Open"",""McCarthy"",0.69,0.69,0.32,0.68,0.31,0.7
+7326,26552,""https://az620379.vo.msecnd.net/images/Contracts/small_265fc4dc-6953-4eb9-ae2f-e00f9514603b.png"",""NA"",""Steny Hoyer"",""Open"",""Hoyer"",0.01,0.01,null,null,0.99,0.01
+7326,26553,""https://az620379.vo.msecnd.net/images/Contracts/small_94022f5c-1fc4-4383-b80a-3972d131fad3.jpg"",""NA"",""Nancy Pelosi"",""Open"",""Pelosi"",0.11,0.12,0.89,0.11,0.88,0.11
+7326,26554,""https://az620379.vo.msecnd.net/images/Contracts/small_e9423152-8426-4ad5-8d1a-27dddf5d9da0.png"",""NA"",""Elise Stefanik"",""Open"",""Stefanik"",0.03,0.04,0.97,0.03,0.96,0.03
+7326,26555,""https://az620379.vo.msecnd.net/images/Contracts/small_5f1b0254-2905-4a5a-aaf8-a50a0c9c5982.png"",""NA"",""James Clyburn"",""Open"",""Clyburn"",0.01,0.01,null,null,0.99,0.01
+7326,26556,""https://az620379.vo.msecnd.net/images/Contracts/small_94323c1c-0271-4962-94bc-a012209d4547.png"",""NA"",""Hakeem Jeffries"",""Open"",""Jeffries"",0.09,0.09,0.92,0.08,0.91,0.09
+7326,26557,""https://az620379.vo.msecnd.net/images/Contracts/small_f6f512dc-39b9-46bd-97ee-f7450bef72b5.png"",""NA"",""Cathy McM. Rodgers"",""Open"",""Rodgers"",0.01,0.01,null,null,0.99,0.01
+7326,26558,""https://az620379.vo.msecnd.net/images/Contracts/small_6e8c8f7c-4015-4bc9-b939-2bbffaf41715.jpg"",""NA"",""Karen Bass"",""Open"",""Bass"",0.01,0.01,null,null,0.99,0.01
+7326,26559,""https://az620379.vo.msecnd.net/images/Contracts/small_ccd30a38-794d-4e52-94f4-1ae79f590413.jpg"",""NA"",""Adam Schiff"",""Open"",""Schiff"",0.01,0.02,0.99,0.01,0.98,0.01
+7326,26560,""https://az620379.vo.msecnd.net/images/Contracts/small_5abc4720-c879-4699-86d6-3b04dd276db2.png"",""NA"",""Jim Jordan"",""Open"",""Jordan"",0.02,0.03,0.98,0.02,0.97,0.03
+7326,26561,""https://az620379.vo.msecnd.net/images/Contracts/small_1b6e7c79-8381-40af-8317-1bb850804e86.png"",""NA"",""Cheri Bustos"",""Open"",""Bustos"",0.01,0.01,null,null,0.99,0.01
+7326,26562,""https://az620379.vo.msecnd.net/images/Contracts/small_5b927e73-c6a1-474e-90b8-73e265392785.jpg"",""NA"",""A. Ocasio-Cortez"",""Open"",""Ocasio-Cortez"",0.01,0.01,null,null,0.99,0.01
+7327,26563,""https://az620379.vo.msecnd.net/images/Contracts/small_7ea0bfff-1b40-4d21-9e06-5fe5488ec4ac.jpg"",""NA"",""Will Donald Trump run for the House of Representatives in 2022?"",""Open"",""Trump for Congress in 2022?"",0.01,0.01,null,null,0.99,0.01
+7326,26565,""https://az620379.vo.msecnd.net/images/Contracts/small_f05ec9f4-4f55-49a8-a78c-dc4badae37e3.png"",""NA"",""Katherine Clark"",""Open"",""Clark"",0.01,0.01,null,null,0.99,0.01
+7358,26804,""https://az620379.vo.msecnd.net/images/Contracts/small_6169a7e3-e681-4214-81df-20b352d01112.png"",""NA"",""Flávio Dino"",""Open"",""Dino"",0.01,0.01,null,null,0.99,0.01
+7358,26805,""https://az620379.vo.msecnd.net/images/Contracts/small_606474c7-7849-407d-a9b5-280be6d9b301.png"",""NA"",""Luiz Lula da Silva"",""Open"",""Lula"",0.79,0.81,0.21,0.79,0.19,0.82
+7358,26806,""https://az620379.vo.msecnd.net/images/Contracts/small_156a8a5a-b4e9-45a9-85d3-c5012cc10dc3.png"",""NA"",""Ciro Gomes"",""Open"",""Gomes"",0.01,0.01,null,null,0.99,0.01
+7358,26807,""https://az620379.vo.msecnd.net/images/Contracts/small_0d919ac5-59a7-4d46-bfb6-48e039fbdfb3.png"",""NA"",""Guilherme Boulos"",""Open"",""Boulos"",0.01,0.01,null,null,0.99,0.01
+7358,26808,""https://az620379.vo.msecnd.net/images/Contracts/small_d0599235-dcc7-4bf6-9fab-f182cf779eef.png"",""NA"",""Marina Silva"",""Open"",""Silva"",0.01,0.01,null,null,0.99,0.01
+7358,26809,""https://az620379.vo.msecnd.net/images/Contracts/small_1f2282db-8f86-48da-b108-78f26ae74ea4.png"",""NA"",""João Doria"",""Open"",""Doria"",0.01,0.01,null,null,0.99,0.01
+7358,26810,""https://az620379.vo.msecnd.net/images/Contracts/small_f6a78794-6840-4d96-b54c-3d3103ea6a9a.png"",""NA"",""Jair Bolsonaro"",""Open"",""Bolsonaro"",0.19,0.23,0.81,0.19,0.77,0.18
+7358,26811,""https://az620379.vo.msecnd.net/images/Contracts/small_7298bdd4-48d3-4ed9-93ff-114500aeb560.png"",""NA"",""João Amoêdo"",""Open"",""Amoêdo"",0.01,0.01,null,null,0.99,0.01
+7358,26812,""https://az620379.vo.msecnd.net/images/Contracts/small_c9764402-e585-45b3-bcd5-720cbede97dc.png"",""NA"",""Fernando Haddad"",""Open"",""Haddad"",0.01,0.01,null,null,0.99,0.01
+7377,26934,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.19,0.2,0.81,0.19,0.8,0.21
+7377,26935,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.81,0.81,0.2,0.8,0.19,0.8
+7378,26936,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.43,0.43,0.58,0.42,0.57,0.44
+7378,26937,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.58,0.59,0.43,0.57,0.41,0.57
+7380,26939,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.26,0.27,0.74,0.26,0.73,0.27
+7380,26940,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.78,0.78,0.23,0.77,0.22,0.78
+7383,26960,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.46,0.48,0.55,0.45,0.52,0.49
+7383,26961,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.55,0.57,0.44,0.56,0.43,0.55
+7384,26962,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.59,0.6,0.41,0.59,0.4,0.64
+7384,26963,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.41,0.41,0.6,0.4,0.59,0.4
+7386,26974,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.8,0.8,0.21,0.79,0.2,0.8
+7386,26975,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.21,0.21,0.8,0.2,0.79,0.2
+7387,26976,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.06,0.06,0.95,0.05,0.94,0.06
+7387,26977,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.94,0.96,0.06,0.94,0.04,0.95
+7391,26989,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.43,0.45,0.57,0.43,0.55,0.46
+7391,26990,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.56,0.58,0.44,0.56,0.42,0.56
+7358,26992,""https://az620379.vo.msecnd.net/images/Contracts/small_b156db1c-81f7-47b0-b188-d6b9438b5ef2.png"",""NA"",""Sergio Moro"",""Open"",""Moro"",0.01,0.01,null,null,0.99,0.01
+7394,27001,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.24,0.25,0.77,0.23,0.75,0.23
+7394,27002,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.78,0.78,0.24,0.76,0.22,0.78
+7411,27155,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""Liz Cheney"",""Open"",""Cheney"",0.01,0.01,null,null,0.99,0.01
+7411,27156,""https://az620379.vo.msecnd.net/images/Contracts/small_2c8d2b37-98ae-433b-ba25-a6a1923bbe78.png"",""NA"",""Anthony Bouchard"",""Open"",""Bouchard"",0.01,0.01,null,null,0.99,0.01
+7411,27157,""https://az620379.vo.msecnd.net/images/Contracts/small_d8a01a53-db31-436a-b2d4-52955291b241.png"",""NA"",""Chuck Gray"",""Open"",""Gray"",0.01,0.01,null,null,0.99,0.01
+7411,27158,""https://az620379.vo.msecnd.net/images/Contracts/small_01f02db0-5e1f-46af-87bd-3522ae7776ad.png"",""NA"",""Denton Knapp"",""Open"",""Knapp"",0.01,0.01,null,null,0.99,0.01
+7411,27159,""https://az620379.vo.msecnd.net/images/Contracts/small_9df0dd8b-c6f5-490d-ad99-bc2ac84542cc.png"",""NA"",""Bryan Miller"",""Open"",""Miller"",0.01,0.01,null,null,0.99,0.01
+7411,27160,""https://az620379.vo.msecnd.net/images/Contracts/small_9888da12-1b83-4a2d-841e-3fb028d5dfa2.png"",""NA"",""Darin Smith"",""Open"",""Smith"",0.01,0.01,null,null,0.99,0.01
+7411,27161,""https://az620379.vo.msecnd.net/images/Contracts/small_52f1739c-f503-49e5-ae6f-8ecece89a7c4.png"",""NA"",""Bryan Keller"",""Open"",""Keller"",0.01,0.01,null,null,0.99,0.01
+7411,27162,""https://az620379.vo.msecnd.net/images/Contracts/small_f3478dbe-b5c2-4f5d-842f-499e764827cf.png"",""NA"",""Robyn Belinskey"",""Open"",""Belinskey"",0.01,0.01,null,null,0.99,0.01
+7411,27163,""https://az620379.vo.msecnd.net/images/Contracts/small_a0753dc8-0360-4a02-95c5-e72efc4d363d.png"",""NA"",""Perry Pendley"",""Open"",""Pendley"",0.01,0.01,null,null,0.99,0.01
+7411,27164,""https://az620379.vo.msecnd.net/images/Contracts/small_6b71a100-c77c-4623-9014-6ea6e794c657.png"",""NA"",""Ed Buchanan"",""Open"",""Buchanan"",0.01,0.01,null,null,0.99,0.01
+7419,27224,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""NA"",""Will Kamala Harris be the 47th US president?"",""Open"",""Harris the 47th US president?"",0.3,0.3,0.71,0.29,0.7,0.29
+7411,27234,""https://az620379.vo.msecnd.net/images/Contracts/small_4ec96c0d-7391-4ddf-af12-31ae22c4ec0b.png"",""NA"",""Bo Biteman"",""Open"",""Biteman"",0.01,0.01,null,null,0.99,0.01
+7411,27235,""https://az620379.vo.msecnd.net/images/Contracts/small_4714d816-b2f6-42ac-ab94-d1db467fba70.png"",""NA"",""Catharine O'Neill"",""Open"",""O'Neill"",0.01,0.01,null,null,0.99,0.01
+7456,27484,""https://az620379.vo.msecnd.net/images/Contracts/small_1d8cb077-b0ce-456e-aadc-57fc4d88dcd7.png"",""NA"",""Ron DeSantis"",""Open"",""DeSantis"",0.31,0.31,0.7,0.3,0.69,0.29
+7456,27485,""https://az620379.vo.msecnd.net/images/Contracts/small_3c10062b-0942-4fc3-9ace-bb6abdb790ff.jpg"",""NA"",""Donald Trump"",""Open"",""Trump"",0.28,0.28,0.73,0.27,0.72,0.28
+7456,27486,""https://az620379.vo.msecnd.net/images/Contracts/small_4c64890a-503c-454c-b02e-732319f1459f.jpg"",""NA"",""Joe Biden"",""Open"",""Biden"",0.21,0.22,0.79,0.21,0.78,0.22
+7456,27487,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""NA"",""Kamala Harris"",""Open"",""Harris"",0.08,0.08,0.93,0.07,0.92,0.08
+7411,27676,""https://az620379.vo.msecnd.net/images/Contracts/small_0999c11a-82cd-499b-8ddf-b0e012e77b46.png"",""NA"",""Harriet Hageman"",""Open"",""Hageman"",0.99,0.99,0.02,0.98,0.01,0.98
+7485,27689,""https://az620379.vo.msecnd.net/images/Contracts/small_5f1bcacc-8162-4152-ab4a-475c68e7100c.jpg"",""2023-06-30T11:59:00"","""Will Joe Biden be impeached by June 30, 2023?""",""Open"",""Will Biden be impeached by 6/30/2023?"",0.23,0.23,0.78,0.22,0.77,0.22
+7492,27724,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""NA"",""0"",""Open"",""0"",0.05,0.07,0.95,0.05,0.93,0.07
+7492,27725,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""NA"",""1"",""Open"",""1"",0.53,0.54,0.47,0.53,0.46,0.54
+7492,27726,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""NA"",""2"",""Open"",""2"",0.47,0.48,0.55,0.45,0.52,0.49
+7492,27727,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""NA"",""3"",""Open"",""3"",0.01,0.01,null,null,0.99,0.01
+7492,27728,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""NA"",""4"",""Open"",""4"",0.01,0.01,null,null,0.99,0.01
+7492,27729,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""NA"",""5"",""Open"",""5"",0.01,0.01,null,null,0.99,0.01
+7492,27730,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""NA"",""6"",""Open"",""6"",0.01,0.01,null,null,0.99,0.01
+7492,27731,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""NA"",""7"",""Open"",""7"",0.01,0.01,null,null,0.99,0.01
+7492,27732,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""NA"",""8"",""Open"",""8"",0.01,0.01,null,null,0.99,0.01
+7492,27733,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""NA"",""9 or more"",""Open"",""9 or more"",0.01,0.01,null,null,0.99,0.01
+7358,27798,""https://az620379.vo.msecnd.net/images/Contracts/small_185af9c0-5c6b-459a-8a4c-d915c27a0ccb.png"",""NA"",""Eduardo Leite"",""Open"",""Leite"",0.01,0.01,null,null,0.99,0.01
+7518,27868,""https://az620379.vo.msecnd.net/images/Contracts/small_4c64890a-503c-454c-b02e-732319f1459f.jpg"",""NA"",""Joe Biden"",""Open"",""Biden"",0.02,0.02,0.99,0.01,0.98,0.02
+7518,27869,""https://az620379.vo.msecnd.net/images/Contracts/small_98abf047-3bfd-4e15-b758-3fb08491a577.png"",""NA"",""Justin Trudeau"",""Open"",""Trudeau"",0.01,0.01,null,null,0.99,0.01
+7518,27870,""https://az620379.vo.msecnd.net/images/Contracts/small_7e9ed8e6-f02c-455e-91ed-aca4af81dfd7.png"",""NA"",""Vladimir Putin"",""Open"",""Putin"",0.01,0.02,0.99,0.01,0.98,0.01
+7518,27871,""https://az620379.vo.msecnd.net/images/Contracts/small_e0023be2-e7bf-40e4-9064-b179836ea191.jpg"",""NA"",""Cyril Ramaphosa"",""Open"",""Ramaphosa"",0.01,0.01,null,null,0.99,0.01
+7518,27872,""https://az620379.vo.msecnd.net/images/Contracts/small_86fb1082-763f-4e1d-b4b5-eadda7e406d7.png"",""NA"",""Emmanuel Macron"",""Open"",""Macron"",0.01,0.01,null,null,0.99,0.01
+7518,27873,""https://az620379.vo.msecnd.net/images/Contracts/small_9cd468f9-7d56-4d76-b89e-6c5c256b2afe.png"",""NA"",""Boris Johnson"",""Open"",""Johnson"",0.98,0.98,0.03,0.97,0.02,0.97
+7518,27874,""https://az620379.vo.msecnd.net/images/Contracts/small_147c0995-70fd-4346-87f1-1db1c4870ddc.jpg"",""NA"",""Jair Bolsonaro"",""Open"",""Bolsonaro"",0.02,0.01,null,null,0.99,0.02
+7518,27875,""https://az620379.vo.msecnd.net/images/Contracts/small_923f3c24-017d-491e-80d9-abe0a0f3fc8b.jpg"",""NA"",""Xi Jinping"",""Open"",""Xi"",0.01,0.01,null,null,0.99,0.01
+7518,27876,""https://az620379.vo.msecnd.net/images/Contracts/small_a950917e-f7bc-48e0-be63-bee6d389d229.png"",""NA"",""Recep Tayyip Erdoğan"",""Open"",""Erdoğan"",0.01,0.01,null,null,0.99,0.01
+7518,27877,""https://az620379.vo.msecnd.net/images/Contracts/small_18722ad0-c8b8-49fc-b9f4-da7937fc62a4.png"",""NA"",""Kishida Fumio"",""Open"",""Kishida"",0.01,0.01,null,null,0.99,0.01
+7520,27888,""https://az620379.vo.msecnd.net/images/Contracts/small_4cafa995-ca46-439b-8e48-fa178d7eb449.jpg"",""N/A"",""Miguel Cardona"",""Open"",""Cardona"",0.04,0.05,0.96,0.04,0.95,0.04
+7520,27889,""https://az620379.vo.msecnd.net/images/Contracts/small_6fe632c1-6466-4a53-b43d-eeb26069f6e1.jpg"",""N/A"",""Marcia Fudge"",""Open"",""Fudge"",0.02,0.03,0.98,0.02,0.97,0.02
+7520,27890,""https://az620379.vo.msecnd.net/images/Contracts/small_455aba92-51c5-47ad-acaf-23855cf053c1.jpg"",""N/A"",""Marty Walsh"",""Open"",""Walsh"",0.06,0.07,0.94,0.06,0.93,0.06
+7520,27891,""https://az620379.vo.msecnd.net/images/Contracts/small_1c7c574a-2759-4ce9-9fb5-330969168c54.png"",""N/A"",""Antony Blinken"",""Open"",""Blinken"",0.07,0.07,0.94,0.06,0.93,0.06
+7520,27892,""https://az620379.vo.msecnd.net/images/Contracts/small_0789615c-e876-437f-8dea-6864f033bb12.jpg"",""N/A"",""Deb Haaland"",""Open"",""Haaland"",0.03,0.04,0.97,0.03,0.96,0.03
+7520,27893,""https://az620379.vo.msecnd.net/images/Contracts/small_9793fc16-0c81-46e9-b407-df5fe99496e5.jpg"",""N/A"",""Tom Vilsack"",""Open"",""Vilsack"",0.04,0.04,0.97,0.03,0.96,0.03
+7520,27894,""https://az620379.vo.msecnd.net/images/Contracts/small_bf085390-9e73-4979-bd1a-84f7fb605f9d.jpg"",""N/A"",""Lloyd Austin"",""Open"",""Austin"",0.11,0.11,0.91,0.09,0.89,0.1
+7520,27895,""https://az620379.vo.msecnd.net/images/Contracts/small_681e197f-0644-46a1-99d7-38840dc7f9d5.jpg"",""N/A"",""Xavier Becerra"",""Open"",""Becerra"",0.19,0.18,0.86,0.14,0.82,0.19
+7520,27896,""https://az620379.vo.msecnd.net/images/Contracts/small_9aab9ab9-e07e-4ef2-ad0c-aa71cb99b623.jpg"",""N/A"",""Gina Raimondo"",""Open"",""Raimondo"",0.03,0.04,0.97,0.03,0.96,0.03
+7520,27897,""https://az620379.vo.msecnd.net/images/Contracts/small_60a95f23-2364-4c07-9c67-a7514127d0bb.jpg"",""N/A"",""Janet Yellen"",""Open"",""Yellen"",0.17,0.18,0.83,0.17,0.82,0.17
+7520,27898,""https://az620379.vo.msecnd.net/images/Contracts/small_97c2a8f6-bd2d-4ab4-816a-9cb25e6110db.png"",""N/A"",""Alejandro Mayorkas"",""Open"",""Mayorkas"",0.09,0.09,0.92,0.08,0.91,0.09
+7520,27899,""https://az620379.vo.msecnd.net/images/Contracts/small_87412471-a5b6-4b74-bcc4-685106982248.jpg"",""N/A"",""Pete Buttigieg"",""Open"",""Buttigieg"",0.07,0.07,0.94,0.06,0.93,0.06
+7520,27900,""https://az620379.vo.msecnd.net/images/Contracts/small_090b421b-ca35-423c-92db-f32ae77296cb.jpg"",""N/A"",""Merrick Garland"",""Open"",""Garland"",0.19,0.19,0.82,0.18,0.81,0.18
+7528,27954,""https://az620379.vo.msecnd.net/images/Contracts/small_6a95c68b-1927-411d-9b68-83f255fb8e00.jpg"",""NA"",""Charlie Baker"",""Open"",""Baker"",0.01,0.01,null,null,0.99,0.01
+7528,27955,""https://az620379.vo.msecnd.net/images/Contracts/small_e53ee1c4-f18e-41b0-afbd-afed9c39c30a.png"",""NA"",""Geoff Diehl"",""Open"",""Diehl"",0.96,0.96,0.05,0.95,0.04,0.97
+7528,27956,""https://az620379.vo.msecnd.net/images/Contracts/small_9e7eff41-6a5f-4fa0-852c-2991a01f0935.png"",""NA"",""Andrew Lelling"",""Open"",""Lelling"",0.01,0.01,null,null,0.99,0.01
+7528,27957,""https://az620379.vo.msecnd.net/images/Contracts/small_352e0df6-2438-4498-8f1c-5d448ec5940e.png"",""NA"",""Patrick O'Connor"",""Open"",""O'Connor"",0.01,0.01,null,null,0.99,0.01
+7532,27970,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""NA"",""Republican"",""Open"",""Republican"",0.88,0.88,0.13,0.87,0.12,0.88
+7532,27971,""https://az620379.vo.msecnd.net/images/Contracts/small_1ea28260-66ce-4e9d-8da4-f0eaa96c4319.jpg"",""NA"",""Independent"",""Open"",""Independent"",0.13,0.13,0.88,0.12,0.87,0.12
+7532,27972,""https://az620379.vo.msecnd.net/images/Contracts/small_34d54d67-380f-474a-85e1-b8e764160897.jpg"",""NA"",""Democratic"",""Open"",""Democractic"",0.01,0.01,null,null,0.99,0.01
+7528,27973,""https://az620379.vo.msecnd.net/images/Contracts/small_66e66456-0b60-44df-bfab-2548fa8be2d0.png"",""NA"",""Karyn Polito"",""Open"",""Polito"",0.01,0.01,null,null,0.99,0.01
+7211,27974,""https://az620379.vo.msecnd.net/images/Contracts/small_1040f96d-7aea-477b-a10f-e1b5b561396c.png"",""NA"",""Annette Taddeo"",""Open"",""Taddeo"",0.01,0.01,null,null,0.99,0.01
+7534,27985,""https://az620379.vo.msecnd.net/images/Contracts/small_6e8c8f7c-4015-4bc9-b939-2bbffaf41715.jpg"",""NA"",""Karen Bass"",""Open"",""Bass"",0.8,0.81,0.2,0.8,0.19,0.81
+7534,27986,""https://az620379.vo.msecnd.net/images/Contracts/small_103cf6ed-3af4-4e32-83b8-6bc48a7c7098.png"",""NA"",""Joe Buscaino"",""Open"",""Buscaino"",0.01,0.01,null,null,0.99,0.01
+7534,27987,""https://az620379.vo.msecnd.net/images/Contracts/small_274bdc99-d4cc-4850-8eb5-fc5d1e35bba4.png"",""NA"",""Kevin de León"",""Open"",""de León"",0.01,0.01,null,null,0.99,0.01
+7534,27988,""https://az620379.vo.msecnd.net/images/Contracts/small_4dc2cb47-87fc-4ce2-8f4f-d0133ae2d11e.png"",""NA"",""Mike Feuer"",""Open"",""Feuer"",0.01,0.01,null,null,0.99,0.01
+7534,27989,""https://az620379.vo.msecnd.net/images/Contracts/small_55bfc67b-69cb-4c55-a309-f71d13c6913f.png"",""NA"",""Wendy Greuel"",""Open"",""Greuel"",0.01,0.01,null,null,0.99,0.01
+7534,27990,""https://az620379.vo.msecnd.net/images/Contracts/small_145fe827-1389-499d-931c-51e9dff4dc12.png"",""NA"",""Paul Krekorian"",""Open"",""Krekorian"",0.01,0.01,null,null,0.99,0.01
+7544,28067,""https://az620379.vo.msecnd.net/images/Contracts/small_0842c178-1a27-4e0c-ab1e-945ca61eff3d.jpg"",""2023-02-01T23:59:00"",""Mitch McConnell"",""Open"",""McConnell"",0.38,0.39,0.62,0.38,0.61,0.38
+7544,28068,""https://az620379.vo.msecnd.net/images/Contracts/small_72306a5f-20ab-468f-b8de-286cab45d25b.png"",""2023-02-01T23:59:00"",""Chuck Schumer"",""Open"",""Schumer"",0.6,0.6,0.41,0.59,0.4,0.58
+7544,28069,""https://az620379.vo.msecnd.net/images/Contracts/small_8aa19bcf-b6c8-4436-bdf3-b3e751a45530.png"",""2023-02-01T23:59:00"",""Dick Durbin"",""Open"",""Durbin"",0.01,0.01,null,null,0.99,0.01
+7544,28070,""https://az620379.vo.msecnd.net/images/Contracts/small_e09a4144-5c88-48f8-807c-9ed5fbee164f.png"",""2023-02-01T23:59:00"",""John Cornyn"",""Open"",""Cornyn"",0.01,0.01,null,null,0.99,0.01
+7544,28071,""https://az620379.vo.msecnd.net/images/Contracts/small_86216c55-f8a3-4299-b113-503c8997d9b6.png"",""2023-02-01T23:59:00"",""Patty Murray"",""Open"",""Murray"",0.01,0.01,null,null,0.99,0.01
+7544,28072,""https://az620379.vo.msecnd.net/images/Contracts/small_a2b71f84-049b-4276-809c-7c6c21492431.png"",""2023-02-01T23:59:00"",""John Thune"",""Open"",""Thune"",0.03,0.04,0.97,0.03,0.96,0.03
+7544,28073,""https://az620379.vo.msecnd.net/images/Contracts/small_f78e885b-a592-4d42-97b6-a47b7fe58c0d.png"",""2023-02-01T23:59:00"",""John Barrasso"",""Open"",""Barrasso"",0.02,0.01,null,null,0.99,0.02
+7544,28074,""https://az620379.vo.msecnd.net/images/Contracts/small_f4cd5805-0f0d-4a75-bb4a-47f55375b7e0.jpg"",""2023-02-01T23:59:00"",""Joni Ernst"",""Open"",""Ernst"",0.01,0.01,null,null,0.99,0.01
+7548,28096,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""NA"",""Republican"",""Open"",""Republican"",0.13,0.16,0.87,0.13,0.84,0.15
+7548,28097,""https://az620379.vo.msecnd.net/images/Contracts/small_34d54d67-380f-474a-85e1-b8e764160897.jpg"",""NA"",""Democratic"",""Open"",""Democractic"",0.86,0.87,0.14,0.86,0.13,0.88
+7566,28220,""https://az620379.vo.msecnd.net/images/Contracts/small_96927bcf-7b22-4089-a0e9-6a49054b18fe.png"",""NA"",""Greg Abbott"",""Open"",""Abbott"",0.87,0.88,0.13,0.87,0.12,0.88
+7566,28221,""https://az620379.vo.msecnd.net/images/Contracts/small_68422ad9-6aaa-454c-9cbf-ffa4b1661f98.jpg"",""NA"",""Beto O'Rourke"",""Open"",""O'Rourke"",0.13,0.14,0.87,0.13,0.86,0.14
+7566,28222,""https://az620379.vo.msecnd.net/images/Contracts/small_bcdea863-7b0e-469b-a996-edfbb78e2c23.png"",""NA"",""Matthew McConaughey"",""Open"",""McConaughey"",0.01,0.01,null,null,0.99,0.01
+7566,28223,""https://az620379.vo.msecnd.net/images/Contracts/small_4f780023-f8c1-4c39-a688-6d345e10580c.png"",""NA"",""Allen West"",""Open"",""West"",0.01,0.01,null,null,0.99,0.01
+7566,28224,""https://az620379.vo.msecnd.net/images/Contracts/small_16b1390a-9c43-41ff-8caf-211641f382d4.png"",""NA"",""Joaquin Castro"",""Open"",""Jo. Castro"",0.01,0.01,null,null,0.99,0.01
+7566,28225,""https://az620379.vo.msecnd.net/images/Contracts/small_97b7802a-7a77-4d3e-9c63-2cbc2482d7f0.jpg"",""NA"",""Julián Castro"",""Open"",""Ju. Castro"",0.01,0.01,null,null,0.99,0.01
+7566,28226,""https://az620379.vo.msecnd.net/images/Contracts/small_0118f3d0-65d7-4447-92c8-59e540cd6876.png"",""NA"",""Don Huffines"",""Open"",""Huffines"",0.01,0.01,null,null,0.99,0.01
+7576,28277,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.17,0.2,0.82,0.18,0.8,0.19
+7576,28278,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.84,0.85,0.18,0.82,0.15,0.81
+7053,28287,""https://az620379.vo.msecnd.net/images/Contracts/small_97751cff-caca-40c3-8d44-2aa9c672832c.png"",""NA"",""Glenn Youngkin"",""Open"",""Youngkin"",0.04,0.04,0.97,0.03,0.96,0.03
+7057,28288,""https://az620379.vo.msecnd.net/images/Contracts/small_ec55b431-9c26-4d8d-807c-1917dc4d612a.jpg"",""NA"",""Sherrod Brown"",""Open"",""Brown"",0.02,0.02,0.99,0.01,0.98,0.01
+7057,28289,""https://az620379.vo.msecnd.net/images/Contracts/small_f646ee92-fe02-4850-bef9-358c4e1c59d1.jpg"",""NA"",""Stacey Abrams"",""Open"",""Abrams"",0.03,0.04,0.97,0.03,0.96,0.03
+7580,28301,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Mike Dunleavy"",""Open"",""Dunleavy"",0.88,0.88,0.13,0.87,0.12,0.88
+7580,28302,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Natasha Von Imhof"",""Open"",""Von Imhof"",0.01,0.01,null,null,0.99,0.01
+7580,28303,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Les Gara"",""Open"",""Gara"",0.03,0.04,0.97,0.03,0.96,0.03
+7580,28304,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Bill Walker"",""Open"",""Walker"",0.09,0.11,0.9,0.1,0.89,0.09
+7580,28305,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Mark Begich"",""Open"",""Begich"",0.01,0.01,null,null,0.99,0.01
+7258,28326,""https://az620379.vo.msecnd.net/images/Contracts/small_c440fc63-b18e-42c8-b0c1-7571e590b692.png"",""NA"",""Frank Edelblut"",""Open"",""Edelblut"",0.01,0.01,null,null,0.99,0.01
+7258,28327,""https://az620379.vo.msecnd.net/images/Contracts/small_fb5e478e-2c11-45cd-85a8-c53b10c9202c.png"",""NA"",""Scott Brown"",""Open"",""Brown"",0.01,0.01,null,null,0.99,0.01
+7258,28329,""https://az620379.vo.msecnd.net/images/Contracts/small_c3568c4a-4610-49d3-9892-d405a45b2951.png"",""NA"",""Matt Mowers"",""Open"",""Mowers"",0.01,0.01,null,null,0.99,0.01
+7586,28330,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""47"",""Open"",""47"",0.09,0.09,0.92,0.08,0.91,0.08
+7586,28331,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""46 or fewer"",""Open"",""46 or fewer"",0.07,0.08,0.93,0.07,0.92,0.08
+7586,28332,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""50"",""Open"",""50"",0.16,0.17,0.84,0.16,0.83,0.16
+7586,28333,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""53"",""Open"",""53"",0.09,0.1,0.91,0.09,0.9,0.09
+7586,28334,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""55"",""Open"",""55"",0.03,0.04,0.97,0.03,0.96,0.03
+7586,28335,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""48"",""Open"",""48"",0.16,0.17,0.84,0.16,0.83,0.15
+7586,28336,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""49"",""Open"",""49"",0.18,0.19,0.83,0.17,0.81,0.18
+7586,28337,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""51"",""Open"",""51"",0.15,0.16,0.85,0.15,0.84,0.15
+7586,28338,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""56 or more"",""Open"",""56 or more"",0.03,0.04,0.97,0.03,0.96,0.04
+7586,28339,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""54"",""Open"",""54"",0.06,0.07,0.94,0.06,0.93,0.06
+7586,28340,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""52"",""Open"",""52"",0.11,0.12,0.89,0.11,0.88,0.11
+7590,28372,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.23,0.26,0.77,0.23,0.74,0.2
+7590,28373,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.73,0.75,0.26,0.74,0.25,0.76
+7595,28411,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.13,0.14,0.88,0.12,0.86,0.14
+7595,28412,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.87,0.88,0.13,0.87,0.12,0.87
+7609,28493,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""NA"",""Republican"",""Open"",""Republican"",0.03,0.04,0.97,0.03,0.96,0.03
+7609,28494,""https://az620379.vo.msecnd.net/images/Contracts/small_1ea28260-66ce-4e9d-8da4-f0eaa96c4319.jpg"",""NA"",""Independent"",""Open"",""Independent"",0.01,0.01,null,null,0.99,0.01
+7609,28495,""https://az620379.vo.msecnd.net/images/Contracts/small_34d54d67-380f-474a-85e1-b8e764160897.jpg"",""NA"",""Democratic"",""Open"",""Democractic"",0.97,0.97,0.04,0.96,0.03,0.97
+7326,28496,""https://az620379.vo.msecnd.net/images/Contracts/small_99eec690-3b49-4e07-a369-4d86aa5a332a.png"",""NA"",""Jim Banks"",""Open"",""Banks"",0.01,0.02,0.99,0.01,0.98,0.01
+7258,28534,""https://az620379.vo.msecnd.net/images/Contracts/small_f6364437-49c6-48af-a7cc-4226e098cc96.png"",""NA"",""Chuck Morse"",""Open"",""Morse"",0.21,0.21,0.85,0.15,0.79,0.16
+7617,28536,""https://az620379.vo.msecnd.net/images/Contracts/small_45140d66-f6d8-433e-82f2-27f2e468063d.png"",""NA"",""Will any incumbent senator lose a primary?"",""Open"",""Any incumbent senator loses primary?"",0.02,0.02,0.99,0.01,0.98,0.02
+7257,28550,""https://az620379.vo.msecnd.net/images/Contracts/small_455aba92-51c5-47ad-acaf-23855cf053c1.jpg"",""NA"",""Marty Walsh"",""Open"",""Walsh"",0.01,0.01,null,null,0.99,0.01
+7258,28572,""https://az620379.vo.msecnd.net/images/Contracts/small_40f3b736-7497-423f-9967-264becb80d35.jpg"",""NA"",""Corky Messner"",""Open"",""Messner"",0.01,0.01,null,null,0.99,0.01
+7629,28600,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""NA"",""Will Kamala Harris be on the 2024 Democratic ticket?"",""Open"",""Harris on 2024 Democratic ticket?"",0.5,0.5,0.51,0.49,0.5,0.5
+7258,28607,""https://az620379.vo.msecnd.net/images/Contracts/small_40f3b736-7497-423f-9967-264becb80d35.jpg"",""NA"",""Phil Taub"",""Open"",""Taub"",0.01,0.01,null,null,0.99,0.01
+7258,28608,""https://az620379.vo.msecnd.net/images/Contracts/small_40f3b736-7497-423f-9967-264becb80d35.jpg"",""NA"",""Bill Binnie"",""Open"",""Binnie"",0.01,0.01,null,null,0.99,0.01
+7258,28609,""https://az620379.vo.msecnd.net/images/Contracts/small_40f3b736-7497-423f-9967-264becb80d35.jpg"",""NA"",""Frank Guinta"",""Open"",""Guinta"",0.01,0.01,null,null,0.99,0.01
+7632,28613,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""23"",""Open"",""23"",0.02,0.02,0.99,0.01,0.98,0.02
+7632,28614,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""22 or fewer"",""Open"",""22 or fewer"",0.01,0.02,0.99,0.01,0.98,0.01
+7632,28615,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""26"",""Open"",""26"",0.16,0.18,0.83,0.17,0.82,0.16
+7632,28616,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""29"",""Open"",""29"",0.11,0.12,0.89,0.11,0.88,0.11
+7632,28617,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""31"",""Open"",""31"",0.06,0.07,0.94,0.06,0.93,0.06
+7632,28618,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""24"",""Open"",""24"",0.03,0.04,0.97,0.03,0.96,0.03
+7632,28619,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""25"",""Open"",""25"",0.12,0.13,0.9,0.1,0.87,0.12
+7632,28620,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""27"",""Open"",""27"",0.15,0.17,0.85,0.15,0.83,0.15
+7632,28621,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""32 or more"",""Open"",""32 or more"",0.1,0.11,0.9,0.1,0.89,0.1
+7632,28622,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""30"",""Open"",""30"",0.11,0.12,0.89,0.11,0.88,0.11
+7632,28623,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""2023-02-10T23:59:00"",""28"",""Open"",""28"",0.16,0.17,0.84,0.16,0.83,0.16
+7456,28624,""https://az620379.vo.msecnd.net/images/Contracts/small_87412471-a5b6-4b74-bcc4-685106982248.jpg"",""NA"",""Pete Buttigieg"",""Open"",""Buttigieg"",0.08,0.08,0.93,0.07,0.92,0.07
+7634,28636,""https://az620379.vo.msecnd.net/images/Contracts/small_7479c4a3-63f5-40f3-be14-ad94a3cbfa99.jpg"",""NA"",""Arizona"",""Open"",""Arizona"",0.09,0.1,0.91,0.09,0.9,0.1
+7634,28637,""https://az620379.vo.msecnd.net/images/Contracts/small_4db5dc21-fce6-491d-9701-95beb908297a.png"",""NA"",""Florida"",""Open"",""Florida"",0.04,0.04,0.97,0.03,0.96,0.04
+7634,28638,""https://az620379.vo.msecnd.net/images/Contracts/small_16c0c903-98d3-49df-b182-c349073860a7.png"",""NA"",""Missouri"",""Open"",""Missouri"",0.03,0.03,0.98,0.02,0.97,0.02
+7634,28639,""https://az620379.vo.msecnd.net/images/Contracts/small_d93687ab-d758-4f5c-b4e4-c2be82faf90f.png"",""NA"",""Wisconsin"",""Open"",""Wisconsin"",0.13,0.14,0.87,0.13,0.86,0.13
+7634,28640,""https://az620379.vo.msecnd.net/images/Contracts/small_5ca21e01-e9e5-4f07-b024-79ce47cbb40f.png"",""NA"",""Pennsylvania"",""Open"",""Pennsylvania"",0.09,0.1,0.91,0.09,0.9,0.09
+7634,28641,""https://az620379.vo.msecnd.net/images/Contracts/small_8159ec2a-6042-4fb7-8b93-76aaa79f192d.jpg"",""NA"",""Georgia"",""Open"",""Georgia"",0.19,0.2,0.81,0.19,0.8,0.18
+7634,28642,""https://az620379.vo.msecnd.net/images/Contracts/small_08c933df-9387-41bf-b4e3-c67d08c7b18c.jpg"",""NA"",""North Carolina"",""Open"",""North Carolina"",0.12,0.12,0.89,0.11,0.88,0.11
+7634,28643,""https://az620379.vo.msecnd.net/images/Contracts/small_f6c77ee5-75fb-4831-95a8-ad1b8ec321fe.png"",""NA"",""Nevada"",""Open"",""Nevada"",0.15,0.16,0.85,0.15,0.84,0.15
+7634,28644,""https://az620379.vo.msecnd.net/images/Contracts/small_adf194d1-6873-4f3a-870c-16726c633b2c.jpg"",""NA"",""New Hampshire"",""Open"",""New Hampshire"",0.07,0.08,0.93,0.07,0.92,0.08
+7634,28645,""https://az620379.vo.msecnd.net/images/Contracts/small_93849bd9-97f9-45d0-8ebe-05afc0ea00a1.jpg"",""NA"",""Alaska"",""Open"",""Alaska"",0.03,0.04,0.97,0.03,0.96,0.04
+7634,28646,""https://az620379.vo.msecnd.net/images/Contracts/small_33b47940-b8e5-4228-adf1-4a7738ba76ff.jpg"",""NA"",""Oregon"",""Open"",""Oregon"",0.02,0.03,0.98,0.02,0.97,0.02
+7634,28656,""https://az620379.vo.msecnd.net/images/Contracts/small_83d4ad9f-6948-462a-833f-6d7c667626e7.jpg"",""NA"",""Colorado"",""Open"",""Colorado"",0.05,0.06,0.95,0.05,0.94,0.06
+7634,28657,""https://az620379.vo.msecnd.net/images/Contracts/small_31710c69-f124-4dd0-93da-5c2618079bcd.png"",""NA"",""Ohio"",""Open"",""Ohio"",0.07,0.08,0.93,0.07,0.92,0.08
+7636,28659,""https://az620379.vo.msecnd.net/images/Contracts/small_f239c547-38d4-4917-9256-1a984613a44c.png"",""NA"",""Mario Draghi"",""Open"",""Draghi"",0.02,0.02,0.99,0.01,0.98,0.01
+7636,28660,""https://az620379.vo.msecnd.net/images/Contracts/small_443fecc6-16bf-4f1d-8ba7-608af9937873.jpg"",""NA"",""Olaf Scholz"",""Open"",""Scholz"",0.01,0.01,null,null,0.99,0.01
+7636,28661,""https://az620379.vo.msecnd.net/images/Contracts/small_7e9ed8e6-f02c-455e-91ed-aca4af81dfd7.png"",""NA"",""Vladimir Putin"",""Open"",""Putin"",0.01,0.02,0.99,0.01,0.98,0.02
+7636,28662,""https://az620379.vo.msecnd.net/images/Contracts/small_fca92a29-7c8f-4556-85b7-7e53da65f0e6.png"",""NA"",""Alexander Lukashenko"",""Open"",""Lukashenko"",0.01,0.01,null,null,0.99,0.01
+7636,28663,""https://az620379.vo.msecnd.net/images/Contracts/small_5e2f6d6a-ca9a-4d23-a185-b484b4637bfc.png"",""NA"",""Pedro Sánchez"",""Open"",""Sánchez"",0.01,0.01,null,null,0.99,0.01
+7636,28664,""https://az620379.vo.msecnd.net/images/Contracts/small_faee9a9c-332b-4923-931b-feeb6cbd54e2.png"",""NA"",""Mark Rutte"",""Open"",""Rutte"",0.01,0.01,null,null,0.99,0.01
+7636,28665,""https://az620379.vo.msecnd.net/images/Contracts/small_00a3e783-50fb-47be-9867-66417eb25ed1.png"",""NA"",""Viktor Orbán"",""Open"",""Orbán"",0.01,0.01,null,null,0.99,0.01
+7636,28666,""https://az620379.vo.msecnd.net/images/Contracts/small_9cd468f9-7d56-4d76-b89e-6c5c256b2afe.png"",""NA"",""Boris Johnson"",""Open"",""Johnson"",0.97,0.97,0.04,0.96,0.03,0.96
+7636,28667,""https://az620379.vo.msecnd.net/images/Contracts/small_b415913c-8aa9-41a6-a1a1-9a4bbc104b7e.png"",""NA"",""Sanna Marin"",""Open"",""Marin"",0.01,0.01,null,null,0.99,0.01
+7636,28668,""https://az620379.vo.msecnd.net/images/Contracts/small_86fb1082-763f-4e1d-b4b5-eadda7e406d7.png"",""NA"",""Emmanuel Macron"",""Open"",""Macron"",0.01,0.01,null,null,0.99,0.01
+7639,28687,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""1"",""Open"",""1"",0.38,0.37,0.65,0.35,0.63,0.38
+7639,28688,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""0"",""Open"",""0"",0.63,0.65,0.4,0.6,0.35,0.65
+7639,28689,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""4"",""Open"",""4"",0.01,0.01,null,null,0.99,0.01
+7639,28690,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""7"",""Open"",""7"",0.01,0.01,null,null,0.99,0.01
+7639,28691,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""9"",""Open"",""9"",0.01,0.01,null,null,0.99,0.01
+7639,28692,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""2"",""Open"",""2"",0.03,0.02,0.99,0.01,0.98,0.03
+7639,28693,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""3"",""Open"",""3"",0.01,0.01,null,null,0.99,0.01
+7639,28694,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""5"",""Open"",""5"",0.01,0.01,null,null,0.99,0.01
+7639,28695,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""10 or more"",""Open"",""10 or more"",0.01,0.01,null,null,0.99,0.01
+7639,28696,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""8"",""Open"",""8"",0.01,0.01,null,null,0.99,0.01
+7639,28697,""https://az620379.vo.msecnd.net/images/Contracts/small_b198a332-2a40-43d1-b80a-8fdfd326140b.png"",""NA"",""6"",""Open"",""6"",0.01,0.01,null,null,0.99,0.01
+7642,28709,""https://az620379.vo.msecnd.net/images/Contracts/small_2aec6b58-1a1a-4aa7-9965-13ea5c3acc33.jpg"",""2022-12-31T23:59:00"",""Will Joe Biden issue a veto before 2023?"",""Open"",""Biden issues a veto before 2023?"",0.03,0.03,0.98,0.02,0.97,0.03
+7652,28776,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.28,0.3,0.72,0.28,0.7,0.3
+7652,28777,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.74,0.74,0.28,0.72,0.26,0.7
+7659,28825,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.07,0.07,0.95,0.05,0.93,0.05
+7659,28826,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.94,0.94,0.07,0.93,0.06,0.94
+7673,28898,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""16 or 17 votes"",""Open"",""16 or 17 votes"",0.17,0.18,0.83,0.17,0.82,0.17
+7673,28899,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""12 or 13 votes"",""Open"",""12 or 13 votes"",0.17,0.18,0.83,0.17,0.82,0.16
+7673,28900,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""4 or 5 votes"",""Open"",""4 or 5 votes"",0.01,0.01,null,null,0.99,0.01
+7673,28901,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""3 or fewer votes"",""Open"",""3 or fewer"",0.01,0.01,null,null,0.99,0.01
+7673,28902,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""14 or 15 votes"",""Open"",""14 or 15 votes"",0.19,0.19,0.82,0.18,0.81,0.19
+7673,28903,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""6 or 7 votes"",""Open"",""6 or 7 votes"",0.01,0.01,null,null,0.99,0.01
+7673,28904,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""8 or 9 votes"",""Open"",""8 or 9 votes"",0.01,0.01,null,null,0.99,0.01
+7673,28905,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""10 or 11 votes"",""Open"",""10 or 11 votes"",0.1,0.1,0.91,0.09,0.9,0.1
+7673,28906,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""18 or 19 votes"",""Open"",""18 or 19 votes"",0.14,0.15,0.86,0.14,0.85,0.16
+7673,28907,""https://az620379.vo.msecnd.net/images/Contracts/small_42e624ca-be5f-4c3e-8939-86bb42b0314d.jpg"",""2022-12-31T23:59:00"",""20 or more"",""Open"",""20 or more"",0.21,0.24,0.79,0.21,0.76,0.23
+7685,28982,""https://az620379.vo.msecnd.net/images/Contracts/small_df8a4623-7f44-449a-b9a2-5262e0bbf4ec.jpg"",""NA"",""Charlie Crist"",""Open"",""Crist"",0.92,0.92,0.1,0.9,0.08,0.88
+7685,28983,""https://az620379.vo.msecnd.net/images/Contracts/small_e8450a5e-eb91-472f-8295-19753657453b.jpg"",""NA"",""Nikki Fried"",""Open"",""Fried"",0.08,0.1,0.92,0.08,0.9,0.14
+7685,28984,""https://az620379.vo.msecnd.net/images/Contracts/small_1040f96d-7aea-477b-a10f-e1b5b561396c.png"",""NA"",""Annette Taddeo"",""Open"",""Taddeo"",0.01,0.01,null,null,0.99,0.01
+7692,29018,""https://az620379.vo.msecnd.net/images/Contracts/small_72306a5f-20ab-468f-b8de-286cab45d25b.png"",""2022-12-31T23:59:00"",""Will the Senate break legislative filibuster with less than 3/5 support in 2022?"",""Open"",""Three-fifths filibuster ends in 2022?"",0.05,0.06,0.96,0.04,0.94,0.05
+7693,29021,""https://az620379.vo.msecnd.net/images/Contracts/b76d954b-acba-45ac-a36a-f7e7baceaf6f.jpg"",""2022-12-31T16:59:00"",""Will Israel hold a national election for Knesset in 2022?"",""Open"",""New Israeli elections in 2022?"",0.98,0.98,0.03,0.97,0.02,0.96
+7697,29043,""https://az620379.vo.msecnd.net/images/Contracts/small_3e9e4e5e-1730-40ad-86fe-6b86a7735069.png"",""2022-12-31T23:59:00"",""Will Rochelle Walensky remain CDC director through the end of the year?"",""Open"",""Walensky CDC director through 2022?"",0.92,0.93,0.08,0.92,0.07,0.92
+7702,29077,""https://az620379.vo.msecnd.net/images/Contracts/small_ede9b57c-dd8a-4c19-bea5-fad7e03a04cb.jpg"",""2022-12-31T23:59:00"",""Will Anthony Fauci remain NIAID director through the end of the year?"",""Open"",""Fauci NIAID director through 2022?"",0.88,0.89,0.13,0.87,0.11,0.88
+7704,29080,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.94,0.94,0.07,0.93,0.06,0.95
+7704,29081,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.06,0.07,0.94,0.06,0.93,0.05
+7715,29137,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""2022-09-01T23:59:00"",""Will Trump be charged with a crime in Georgia by Sept. 1?"",""Open"",""Georgia indicts Trump by Sept. 1?"",0.02,0.03,0.98,0.02,0.97,0.02
+7729,29260,""https://az620379.vo.msecnd.net/images/Contracts/small_14174db2-5431-4f81-942f-5893a13f79d9.png"",""2022-12-31T23:59:00"",""Will marijuana be rescheduled under the Controlled Substances Act in 2022?"",""Open"",""Marijuana federally rescheduled in 2022?"",0.09,0.09,0.93,0.07,0.91,0.09
+7735,29284,""https://az620379.vo.msecnd.net/images/Contracts/small_44ed300a-d650-4205-b219-c39bf84f7b03.jpg"",""NA"",""Max Rose"",""Open"",""Rose"",0.99,0.99,0.02,0.98,0.01,0.99
+7735,29285,""https://az620379.vo.msecnd.net/images/Contracts/small_5799fbae-2f97-44cf-bc7f-ab7c245ec675.jpg"",""NA"",""Bill de Blasio"",""Open"",""de Blasio"",0.01,0.01,null,null,0.99,0.01
+7735,29286,""https://az620379.vo.msecnd.net/images/Contracts/small_78b1f4c5-868f-4f33-898f-1a35b6be24df.jpg"",""NA"",""B. Ramos DeBarros"",""Open"",""DeBarros"",0.02,0.02,0.99,0.01,0.98,0.02
+7735,29288,""https://az620379.vo.msecnd.net/images/Contracts/small_b07d54f6-6ef5-48b5-9c13-8e26666ed277.jpg"",""NA"",""Kathryn Garcia"",""Open"",""Garcia"",0.01,0.01,null,null,0.99,0.01
+7735,29289,""https://az620379.vo.msecnd.net/images/Contracts/small_bd322f9d-8daf-49cd-bb8a-a2d35d5b2097.png"",""NA"",""Jumaane Williams"",""Open"",""Williams"",0.01,0.01,null,null,0.99,0.01
+7534,29319,""https://az620379.vo.msecnd.net/images/Contracts/small_32352689-2241-4c9a-ad07-11aaf9a6081d.png"",""NA"",""Rick Caruso"",""Open"",""Caruso"",0.2,0.2,0.81,0.19,0.8,0.2
+7749,29370,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""NA"",""Republican"",""Open"",""Republican"",0.05,0.05,0.96,0.04,0.95,0.05
+7749,29371,""https://az620379.vo.msecnd.net/images/Contracts/small_1ea28260-66ce-4e9d-8da4-f0eaa96c4319.jpg"",""NA"",""Independent"",""Open"",""Independent"",0.01,0.01,null,null,0.99,0.01
+7749,29372,""https://az620379.vo.msecnd.net/images/Contracts/small_34d54d67-380f-474a-85e1-b8e764160897.jpg"",""NA"",""Democratic"",""Open"",""Democractic"",0.96,0.96,0.05,0.95,0.04,0.96
+7760,29439,""https://az620379.vo.msecnd.net/images/Contracts/06c60d23-4f0e-4f70-8bae-d67cbea3fea8.jpg"",""2022-12-31T15:59:00"",""Will Vladimir Putin remain president of Russia through 2022?"",""Open"",""Putin Russian president through 2022?"",0.89,0.89,0.12,0.88,0.11,0.88
+7767,29463,""https://az620379.vo.msecnd.net/images/Contracts/small_fca92a29-7c8f-4556-85b7-7e53da65f0e6.png"",""2022-12-31T15:59:00"",""Will Alexander Lukashenko remain president of Belarus through 2022?"",""Open"",""Lukashenko in office throughout 2022?"",0.93,0.93,0.08,0.92,0.07,0.93
+7769,29469,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""NA"",""Republican"",""Open"",""Republican"",0.07,0.08,0.93,0.07,0.92,0.07
+7769,29470,""https://az620379.vo.msecnd.net/images/Contracts/small_34d54d67-380f-474a-85e1-b8e764160897.jpg"",""NA"",""Democratic"",""Open"",""Democractic"",0.94,0.94,0.07,0.93,0.06,0.94
+7771,29472,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Jim Inhofe"",""Open"",""Inhofe"",0.01,0.01,null,null,0.99,0.01
+7771,29473,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Matt Pinnell"",""Open"",""Pinnell"",0.01,0.01,null,null,0.99,0.01
+7771,29474,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""T.W. Shannon"",""Open"",""Shannon"",0.03,0.03,0.98,0.02,0.97,0.03
+7771,29475,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Trent Shores"",""Open"",""Shores"",0.01,0.01,null,null,0.99,0.01
+7771,29476,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Luke Holland"",""Open"",""Holland"",0.01,0.01,null,null,0.99,0.01
+7771,29477,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Kevin Hern"",""Open"",""Hern"",0.01,0.01,null,null,0.99,0.01
+7771,29478,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Markwayne Mullin"",""Open"",""Mullin"",0.98,0.98,0.03,0.97,0.02,0.97
+7771,29479,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Frank Lucas"",""Open"",""Lucas"",0.01,0.01,null,null,0.99,0.01
+7771,29480,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Tom Cole"",""Open"",""Cole"",0.01,0.01,null,null,0.99,0.01
+7771,29481,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Stephanie Bice"",""Open"",""Bice"",0.01,0.01,null,null,0.99,0.01
+7774,29500,""https://az620379.vo.msecnd.net/images/Contracts/small_db58b806-371f-4a71-9255-43cef921d5f3.jpg"",""2022-09-01T23:59:00"",""Will Donald Trump be indicted by Sept. 1?"",""Open"",""Trump indicted by Sept. 1?"",0.04,0.05,0.96,0.04,0.95,0.08
+7793,29588,""https://az620379.vo.msecnd.net/images/Contracts/small_147c0995-70fd-4346-87f1-1db1c4870ddc.jpg"",""NA"",""Jair Bolsonaro"",""Open"",""Bolsonaro"",0.58,0.58,0.52,0.48,0.42,0.5
+7793,29589,""https://az620379.vo.msecnd.net/images/Contracts/small_0d024321-9515-4a51-8c4a-f8c58cc2aae1.png"",""NA"",""Guillermo Lasso"",""Open"",""Lasso"",0.01,0.02,0.99,0.01,0.98,0.02
+7793,29590,""https://az620379.vo.msecnd.net/images/Contracts/small_f2f98778-d945-462d-903d-6a859f7dc61f.jpg"",""NA"",""Pedro Castillo"",""Open"",""Castillo"",0.38,0.39,0.64,0.36,0.61,0.35
+7793,29591,""https://az620379.vo.msecnd.net/images/Contracts/small_2959ae7d-2276-4ef2-91b3-92f26bb1ed00.png"",""NA"",""Gabriel Boric"",""Open"",""Boric"",0.01,0.01,null,null,0.99,0.01
+7793,29592,""https://az620379.vo.msecnd.net/images/Contracts/small_6deb5194-5a77-44b2-9526-3ab7d8e7e512.png"",""NA"",""Xiomara Castro"",""Open"",""Castro"",0.01,0.01,null,null,0.99,0.01
+7793,29593,""https://az620379.vo.msecnd.net/images/Contracts/small_88521ed5-1d23-49cc-9736-1d736091d0d4.jpg"",""NA"",""A. M. López Obrador"",""Open"",""AMLO"",0.01,0.01,null,null,0.99,0.01
+7793,29594,""https://az620379.vo.msecnd.net/images/Contracts/small_679d4762-1ea5-4e4c-aecf-89b23186d612.jpg"",""NA"",""Alberto Fernández"",""Open"",""Fernández"",0.01,0.02,0.99,0.01,0.98,0.01
+7793,29595,""https://az620379.vo.msecnd.net/images/Contracts/small_88432c4e-6de8-4a07-97a1-ab824f9dbb17.jpg"",""NA"",""Luis Arce"",""Open"",""Arce"",0.05,0.13,0.95,0.05,0.87,0.02
+7793,29596,""https://az620379.vo.msecnd.net/images/Contracts/small_38d33b7c-e5f0-446d-b960-e2e0c6c05902.jpg"",""NA"",""Daniel Ortega"",""Open"",""Ortega"",0.01,0.02,0.99,0.01,0.98,0.01
+7793,29597,""https://az620379.vo.msecnd.net/images/Contracts/small_4a38dd64-5df8-4e06-9028-5d10e5446be4.jpg"",""NA"",""Nicolás Maduro"",""Open"",""Maduro"",0.03,0.05,0.97,0.03,0.95,0.04
+7771,29629,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Scott Pruitt"",""Open"",""Pruitt"",0.01,0.01,null,null,0.99,0.01
+7528,29648,""https://az620379.vo.msecnd.net/images/Contracts/small_50880d82-fcdc-479a-8274-60e5dae69f96.png"",""NA"",""Chris Doughty"",""Open"",""Doughty"",0.05,0.06,0.95,0.05,0.94,0.02
+7258,29659,""https://az620379.vo.msecnd.net/images/Contracts/small_40f3b736-7497-423f-9967-264becb80d35.jpg"",""NA"",""Kevin Smith"",""Open"",""Smith"",0.29,0.44,0.7,0.3,0.56,0.17
+7804,29665,""https://az620379.vo.msecnd.net/images/Contracts/small_345c27f8-7e0c-464c-93d3-da5585b6422c.jpg"",""NA"",""Scott Aitchison"",""Open"",""Aitchison"",0.01,0.01,null,null,0.99,0.01
+7804,29666,""https://az620379.vo.msecnd.net/images/Contracts/small_345c27f8-7e0c-464c-93d3-da5585b6422c.jpg"",""NA"",""Roman Baber"",""Open"",""Baber"",0.01,0.01,null,null,0.99,0.01
+7804,29667,""https://az620379.vo.msecnd.net/images/Contracts/small_345c27f8-7e0c-464c-93d3-da5585b6422c.jpg"",""NA"",""Patrick Brown"",""Open"",""Brown"",0.01,0.01,null,null,0.99,0.01
+7804,29668,""https://az620379.vo.msecnd.net/images/Contracts/small_345c27f8-7e0c-464c-93d3-da5585b6422c.jpg"",""NA"",""Marc Dalton"",""Open"",""Dalton"",0.01,0.01,null,null,0.99,0.01
+7804,29669,""https://az620379.vo.msecnd.net/images/Contracts/small_345c27f8-7e0c-464c-93d3-da5585b6422c.jpg"",""NA"",""Leslyn Lewis"",""Open"",""Lewis"",0.01,0.01,null,null,0.99,0.01
+7804,29670,""https://az620379.vo.msecnd.net/images/Contracts/small_345c27f8-7e0c-464c-93d3-da5585b6422c.jpg"",""NA"",""Pierre Poilievre"",""Open"",""Poilievre"",0.96,0.96,0.06,0.94,0.04,0.96
+7804,29671,""https://az620379.vo.msecnd.net/images/Contracts/small_345c27f8-7e0c-464c-93d3-da5585b6422c.jpg"",""NA"",""Leona Alleslev"",""Open"",""Alleslev"",0.01,0.01,null,null,0.99,0.01
+7804,29673,""https://az620379.vo.msecnd.net/images/Contracts/small_345c27f8-7e0c-464c-93d3-da5585b6422c.jpg"",""NA"",""Jean Charest"",""Open"",""Charest"",0.03,0.04,0.99,0.01,0.96,0.02
+7158,29674,""https://az620379.vo.msecnd.net/images/Contracts/small_1557353a-af38-4fa3-bb31-7c8402cc8935.jpg"",""NA"",""New Jersey"",""Open"",""New Jersey"",0.02,0.03,0.98,0.02,0.97,0.02
+7806,29675,""https://az620379.vo.msecnd.net/images/Contracts/small_c2ae8b21-a2ea-4177-8b63-bae2053741dc.png"",""NA"",""Nick Begich III"",""Open"",""Begich"",0.01,0.01,null,null,0.99,0.01
+7806,29676,""https://az620379.vo.msecnd.net/images/Contracts/small_75568c70-5feb-4d21-b293-8cd5441deed0.png"",""NA"",""Gregg Brelsford"",""Open"",""Brelsford"",0.01,0.01,null,null,0.99,0.01
+7806,29677,""https://az620379.vo.msecnd.net/images/Contracts/small_38e92b9e-b348-403d-8bcc-1293ad7b8861.png"",""NA"",""Christopher Constant"",""Open"",""Constant"",0.01,0.01,null,null,0.99,0.01
+7806,29678,""https://az620379.vo.msecnd.net/images/Contracts/small_a0165afb-253e-4567-a804-b5d8a7e7aa29.jpg"",""NA"",""Al Gross"",""Open"",""Gross"",0.01,0.01,null,null,0.99,0.01
+7806,29679,""https://az620379.vo.msecnd.net/images/Contracts/small_52e41473-286d-484a-b716-1f29fb919397.png"",""NA"",""Sarah Palin"",""Open"",""Palin"",0.79,0.79,0.23,0.77,0.21,0.81
+7806,29680,""https://az620379.vo.msecnd.net/images/Contracts/small_43b78968-8422-48c1-a727-797c1d36be42.png"",""NA"",""Tara Sweeney"",""Open"",""Sweeney"",0.01,0.01,null,null,0.99,0.01
+7806,29681,""https://az620379.vo.msecnd.net/images/Contracts/small_71a927e2-80ff-4a44-beaf-978c81f844ef.png"",""NA"",""Josh Revak"",""Open"",""Revak"",0.01,0.01,null,null,0.99,0.01
+7771,29702,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Alex Gray"",""Open"",""Gray"",0.01,0.01,null,null,0.99,0.01
+7057,29705,""https://az620379.vo.msecnd.net/images/Contracts/small_3cbf4f5f-5842-42ce-884f-a08c8a210794.jpg"",""NA"",""Amy Klobuchar"",""Open"",""Klobuchar"",0.03,0.04,0.97,0.03,0.96,0.03
+7818,29726,""https://az620379.vo.msecnd.net/images/Contracts/small_c9b72eca-8620-41f1-bb2e-e93b1bdf5ded.png"",""2022-12-31T23:59:00"",""21% or lower"",""Open"",""21% or lower"",0.99,0.99,0.02,0.98,0.01,0.99
+7818,29727,""https://az620379.vo.msecnd.net/images/Contracts/small_c9b72eca-8620-41f1-bb2e-e93b1bdf5ded.png"",""2022-12-31T23:59:00"",""21.1% to 24.5%"",""Open"",""21.1% to 24.5%"",0.01,0.01,null,null,0.99,0.01
+7818,29728,""https://az620379.vo.msecnd.net/images/Contracts/small_c9b72eca-8620-41f1-bb2e-e93b1bdf5ded.png"",""2022-12-31T23:59:00"",""24.6% to 27.9%"",""Open"",""24.6% to 27.9%"",0.01,0.01,null,null,0.99,0.01
+7818,29729,""https://az620379.vo.msecnd.net/images/Contracts/small_c9b72eca-8620-41f1-bb2e-e93b1bdf5ded.png"",""2022-12-31T23:59:00"",""28% or higher"",""Open"",""28% or higher"",0.01,0.01,null,null,0.99,0.01
+7590,29823,""https://az620379.vo.msecnd.net/images/Contracts/small_1ea28260-66ce-4e9d-8da4-f0eaa96c4319.jpg"",""NA"",""Independent"",""Open"",""Independent"",0.07,0.06,0.95,0.05,0.94,0.05
+7158,29825,""https://az620379.vo.msecnd.net/images/Contracts/small_324a42b0-c57e-414f-b49f-8a13935aa012.jpg"",""NA"",""Michigan"",""Open"",""Michigan"",0.1,0.14,0.9,0.1,0.86,0.1
+7258,29826,""https://az620379.vo.msecnd.net/images/Contracts/small_40f3b736-7497-423f-9967-264becb80d35.jpg"",""NA"",""Bruce Fenton"",""Open"",""Fenton"",0.03,0.05,0.97,0.03,0.95,0.04
+7837,29876,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.07,0.08,0.93,0.07,0.92,0.08
+7837,29877,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.93,0.93,0.08,0.92,0.07,0.93
+7837,29889,""https://az620379.vo.msecnd.net/images/Contracts/small_1ea28260-66ce-4e9d-8da4-f0eaa96c4319.jpg"",""NA"",""Independent"",""Open"",""Independent"",0.01,0.01,null,null,0.99,0.01
+7258,29907,""https://az620379.vo.msecnd.net/images/Contracts/small_40f3b736-7497-423f-9967-264becb80d35.jpg"",""NA"",""Vikram Mansharamani"",""Open"",""Mansharamani"",0.03,0.04,0.97,0.03,0.96,0.03
+7846,29929,""https://az620379.vo.msecnd.net/images/Contracts/small_97ffecd5-33a5-4a38-b4bd-5ce66502653f.png"",""2022-08-31T19:00:00"",""Will Boris Johnson remain British prime minister through August?"",""Open"",""Johnson stays UK PM through August?"",0.99,0.99,0.02,0.98,0.01,0.98
+7158,29939,""https://az620379.vo.msecnd.net/images/Contracts/small_eec8cc13-fe44-49f7-b7f4-f52d58ef55a2.jpg"",""NA"",""Minnesota"",""Open"",""Minnesota"",0.02,0.03,0.99,0.01,0.97,0.02
+7771,29970,""https://az620379.vo.msecnd.net/images/Contracts/small_3bd2496e-c458-4f7b-bf56-c22fe1aee661.jpg"",""NA"",""Nathan Dahm"",""Open"",""Dahm"",0.01,0.01,null,null,0.99,0.01
+7853,29977,""https://az620379.vo.msecnd.net/images/Contracts/small_7c61afd3-32be-46b5-830a-41ee3102e753.png"",""2022-09-30T23:59:00"",""Will Dianne Feinstein remain a US senator through Sept. 30?"",""Open"",""Feinstein remains senator through 9/30?"",0.96,0.97,0.04,0.96,0.03,0.96
+7806,29979,""https://az620379.vo.msecnd.net/images/Contracts/small_aa1be8ab-08a8-4263-9432-f682c9a6b192.png"",""NA"",""Santa Claus"",""Open"",""Claus"",0.01,0.01,null,null,0.99,0.01
+7874,30092,""https://az620379.vo.msecnd.net/images/Contracts/small_7dab8ab5-8f63-4b41-8b5f-efbc807f4f60.jpg"",""NA"",""Matt Brown"",""Open"",""Brown"",0.01,0.01,null,null,0.99,0.01
+7874,30093,""https://az620379.vo.msecnd.net/images/Contracts/small_7dab8ab5-8f63-4b41-8b5f-efbc807f4f60.jpg"",""NA"",""Helena Foulkes"",""Open"",""Foulkes"",0.06,0.08,0.94,0.06,0.92,0.06
+7874,30094,""https://az620379.vo.msecnd.net/images/Contracts/small_7dab8ab5-8f63-4b41-8b5f-efbc807f4f60.jpg"",""NA"",""Nellie Gorbea"",""Open"",""Gorbea"",0.36,0.41,0.63,0.37,0.59,0.41
+7874,30095,""https://az620379.vo.msecnd.net/images/Contracts/small_7dab8ab5-8f63-4b41-8b5f-efbc807f4f60.jpg"",""NA"",""Dan McKee"",""Open"",""McKee"",0.59,0.63,0.41,0.59,0.37,0.62
+7874,30096,""https://az620379.vo.msecnd.net/images/Contracts/small_7dab8ab5-8f63-4b41-8b5f-efbc807f4f60.jpg"",""NA"",""Luis Daniel Muñoz"",""Open"",""Muñoz"",0.01,0.01,null,null,0.99,0.01
+7883,30148,""https://az620379.vo.msecnd.net/images/Contracts/small_8d012e78-5099-4e10-93e5-8511fd7768aa.png"",""NA"",""Republican"",""Open"",""Republican"",0.05,0.06,0.95,0.05,0.94,0.06
+7883,30149,""https://az620379.vo.msecnd.net/images/Contracts/small_d50cf59e-887c-4698-b76f-c232b24651c0.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.96,0.96,0.05,0.95,0.04,0.96
+7884,30150,""https://az620379.vo.msecnd.net/images/Contracts/small_0876890d-22c8-4a07-b9dd-7719754eee7e.jpg"",""NA"",""Republican"",""Open"",""Republican"",0.04,0.05,0.96,0.04,0.95,0.04
+7884,30151,""https://az620379.vo.msecnd.net/images/Contracts/small_34d54d67-380f-474a-85e1-b8e764160897.jpg"",""NA"",""Democratic"",""Open"",""Democractic"",0.96,0.96,0.05,0.95,0.04,0.96
+7806,30221,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Adam Wool"",""Open"",""Wool"",0.01,0.01,null,null,0.99,0.01
+7806,30222,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Andrew Halcro"",""Open"",""Halcro"",0.01,0.01,null,null,0.99,0.01
+7806,30223,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Mary Peltola"",""Open"",""Peltola"",0.24,0.23,0.78,0.22,0.77,0.2
+7057,30315,""https://az620379.vo.msecnd.net/images/Contracts/small_a898b196-9a0f-454e-99fe-36e21c62f343.jpg"",""NA"",""Gavin Newsom"",""Open"",""Newsom"",0.15,0.15,0.86,0.14,0.85,0.16
+7918,30396,""https://az620379.vo.msecnd.net/images/Contracts/small_567c87b5-86da-4ea2-a685-61fd71ae33d1.png"",""NA"",""Oz 601 to 750"",""Open"",""Oz 601 to 750"",0.01,0.01,null,null,0.99,0.01
+7918,30397,""https://az620379.vo.msecnd.net/images/Contracts/small_567c87b5-86da-4ea2-a685-61fd71ae33d1.png"",""NA"",""Oz 751 to 900"",""Open"",""Oz 751 to 900"",0.04,0.1,0.96,0.04,0.9,0.04
+7918,30398,""https://az620379.vo.msecnd.net/images/Contracts/small_567c87b5-86da-4ea2-a685-61fd71ae33d1.png"",""NA"",""Oz 901 to 1050"",""Open"",""Oz 901 to 1050"",0.96,0.96,0.1,0.9,0.04,0.96
+7918,30399,""https://az620379.vo.msecnd.net/images/Contracts/small_567c87b5-86da-4ea2-a685-61fd71ae33d1.png"",""NA"",""Oz 301 to 450"",""Open"",""Oz 301 to 450"",0.01,0.01,null,null,0.99,0.01
+7918,30400,""https://az620379.vo.msecnd.net/images/Contracts/small_6ff1e761-8710-403d-bfcb-a2bd50cdb3e7.png"",""NA"",""McCormick ≤ 150"",""Open"",""McCormick ≤ 150"",0.01,0.01,null,null,0.99,0.01
+7918,30401,""https://az620379.vo.msecnd.net/images/Contracts/small_567c87b5-86da-4ea2-a685-61fd71ae33d1.png"",""NA"",""Oz ≤ 150"",""Open"",""Oz ≤ 150"",0.01,0.01,null,null,0.99,0.01
+7918,30402,""https://az620379.vo.msecnd.net/images/Contracts/small_567c87b5-86da-4ea2-a685-61fd71ae33d1.png"",""NA"",""Oz 151 to 300"",""Open"",""Oz 151 to 300"",0.01,0.01,null,null,0.99,0.01
+7918,30403,""https://az620379.vo.msecnd.net/images/Contracts/small_6ff1e761-8710-403d-bfcb-a2bd50cdb3e7.png"",""NA"",""McCormick ≥ 151"",""Open"",""McCormick ≥ 151"",0.01,0.01,null,null,0.99,0.01
+7918,30404,""https://az620379.vo.msecnd.net/images/Contracts/small_567c87b5-86da-4ea2-a685-61fd71ae33d1.png"",""NA"",""Oz ≥ 1351"",""Open"",""Oz ≥ 1351"",0.01,0.01,null,null,0.99,0.01
+7918,30405,""https://az620379.vo.msecnd.net/images/Contracts/small_567c87b5-86da-4ea2-a685-61fd71ae33d1.png"",""NA"",""Oz 451 to 600"",""Open"",""Oz 451 to 600"",0.01,0.01,null,null,0.99,0.01
+7927,30455,""https://az620379.vo.msecnd.net/images/Contracts/small_44ed300a-d650-4205-b219-c39bf84f7b03.jpg"",""NA"",""Max Rose"",""Open"",""Rose"",0.01,0.01,null,null,0.99,0.01
+7927,30456,""https://az620379.vo.msecnd.net/images/Contracts/small_5799fbae-2f97-44cf-bc7f-ab7c245ec675.jpg"",""NA"",""Bill de Blasio"",""Open"",""de Blasio"",0.01,0.01,null,null,0.99,0.01
+7927,30457,""https://az620379.vo.msecnd.net/images/Contracts/small_08c84f4c-975a-45d4-8005-7b48af29cf10.png"",""NA"",""Yuh-Line Niou"",""Open"",""Niou"",0.16,0.19,0.86,0.14,0.81,0.24
+7927,30458,""https://az620379.vo.msecnd.net/images/Contracts/small_78b1f4c5-868f-4f33-898f-1a35b6be24df.jpg"",""NA"",""Yan Xiong"",""Open"",""Xiong"",0.01,0.01,null,null,0.99,0.01
+7927,30459,""https://az620379.vo.msecnd.net/images/Contracts/small_d8d5f0cb-4c1b-416f-9774-fdce68d7b9ba.png"",""NA"",""Carlina Rivera"",""Open"",""Rivera"",0.13,0.16,0.87,0.13,0.84,0.12
+7927,30460,""https://az620379.vo.msecnd.net/images/Contracts/small_8943b241-197c-4839-a157-0e97e0801474.jpg"",""NA"",""Mondaire Jones"",""Open"",""Jones"",0.03,0.04,0.97,0.03,0.96,0.06
+7927,30461,""https://az620379.vo.msecnd.net/images/Contracts/small_b07d54f6-6ef5-48b5-9c13-8e26666ed277.jpg"",""NA"",""Kathryn Garcia"",""Open"",""Garcia"",0.01,0.01,null,null,0.99,0.01
+7927,30462,""https://az620379.vo.msecnd.net/images/Contracts/small_78b1f4c5-868f-4f33-898f-1a35b6be24df.jpg"",""NA"",""Elizabeth Holtzman"",""Open"",""Holtzman"",0.01,0.01,null,null,0.99,0.01
+7927,30463,""https://az620379.vo.msecnd.net/images/Contracts/small_78b1f4c5-868f-4f33-898f-1a35b6be24df.jpg"",""NA"",""Simcha Felder"",""Open"",""Felder"",0.01,0.01,null,null,0.99,0.01
+7929,30469,""https://az620379.vo.msecnd.net/images/Contracts/small_319752e3-acb0-43c2-96ce-570da5ab168c.png"",""NA"",""Alessandra Biaggi"",""Open"",""Biaggi"",0.03,0.03,0.98,0.02,0.97,0.03
+7929,30470,""https://az620379.vo.msecnd.net/images/Contracts/small_78b1f4c5-868f-4f33-898f-1a35b6be24df.jpg"",""NA"",""Sean Patrick Maloney"",""Open"",""Maloney"",0.96,0.98,0.04,0.96,0.02,0.98
+7918,30509,""https://az620379.vo.msecnd.net/images/Contracts/small_567c87b5-86da-4ea2-a685-61fd71ae33d1.png"",""NA"",""Oz 1051 to 1200"",""Open"",""Oz 1051 to 1200"",0.01,0.01,null,null,0.99,0.01
+7918,30510,""https://az620379.vo.msecnd.net/images/Contracts/small_567c87b5-86da-4ea2-a685-61fd71ae33d1.png"",""NA"",""Oz 1201 to 1350"",""Open"",""Oz 1201 to 1350"",0.01,0.01,null,null,0.99,0.01
+7935,30511,""https://az620379.vo.msecnd.net/images/Contracts/small_e624b75d-943a-40ca-8df9-c3ee0cf587ed.jpg"",""NA"",""Jerry Nadler"",""Open"",""Nadler"",0.94,0.96,0.06,0.94,0.04,0.88
+7935,30512,""https://az620379.vo.msecnd.net/images/Contracts/small_1856a753-75a5-4125-9c26-aff9adf6434d.png"",""NA"",""Carolyn Maloney"",""Open"",""Maloney"",0.07,0.07,0.95,0.05,0.93,0.1
+7935,30513,""https://az620379.vo.msecnd.net/images/Contracts/small_78b1f4c5-868f-4f33-898f-1a35b6be24df.jpg"",""NA"",""Rana Abdelhamid"",""Open"",""Abdelhamid"",0.01,0.01,null,null,0.99,0.01
+7943,30549,""https://az620379.vo.msecnd.net/images/Contracts/small_db36a81e-4ed9-4ba0-a607-3917a0f5342c.png"",""NA"",""Cindy Chavez"",""Open"",""Chavez"",0.77,0.76,0.3,0.7,0.24,0.77
+7943,30550,""https://az620379.vo.msecnd.net/images/Contracts/small_a3850b4a-76d7-47dd-b4e2-9162e72ebcc2.png"",""NA"",""Dev Davis"",""Open"",""Davis"",0.01,0.01,null,null,0.99,0.01
+7943,30551,""https://az620379.vo.msecnd.net/images/Contracts/small_3da3c236-43aa-465e-a913-10f188bb3b6c.png"",""NA"",""Matt Mahan"",""Open"",""Mahan"",0.24,0.28,0.77,0.23,0.72,0.29
+7943,30552,""https://az620379.vo.msecnd.net/images/Contracts/small_a3850b4a-76d7-47dd-b4e2-9162e72ebcc2.png"",""NA"",""Raul Peralez"",""Open"",""Peralez"",0.01,0.01,null,null,0.99,0.01
+7943,30553,""https://az620379.vo.msecnd.net/images/Contracts/small_a3850b4a-76d7-47dd-b4e2-9162e72ebcc2.png"",""NA"",""Jim Spence"",""Open"",""Spence"",0.01,0.01,null,null,0.99,0.01
+7935,30565,""https://az620379.vo.msecnd.net/images/Contracts/small_78b1f4c5-868f-4f33-898f-1a35b6be24df.jpg"",""NA"",""Suraj Patel"",""Open"",""Patel"",0.03,0.03,0.98,0.02,0.97,0.03
+7927,30566,""https://az620379.vo.msecnd.net/images/Contracts/small_78b1f4c5-868f-4f33-898f-1a35b6be24df.jpg"",""NA"",""Daniel Goldman"",""Open"",""Goldman"",0.68,0.72,0.32,0.68,0.28,0.63
+7966,30651,""https://az620379.vo.msecnd.net/images/Contracts/small_289faa3a-8ea0-4f49-b008-cfb0fac5338c.png"",""NA"",""Democratic"",""Open"",""Democratic"",0.31,0.31,0.71,0.29,0.69,0.3
+7966,30652,""https://az620379.vo.msecnd.net/images/Contracts/small_6e5fc275-c0ff-40f6-9fbf-46cd9516b2d6.png"",""NA"",""Republican"",""Open"",""Republican"",0.7,0.72,0.31,0.69,0.28,0.71
+7927,30941,""https://az620379.vo.msecnd.net/images/Contracts/small_78b1f4c5-868f-4f33-898f-1a35b6be24df.jpg"",""NA"",""Jo Anne Simon"",""Open"",""Simon"",0.01,0.01,null,null,0.99,0.01
+8014,30955,""https://az620379.vo.msecnd.net/images/Contracts/small_fa08621f-3786-4d91-832a-238879ff4c09.jpg"",""NA"",""Marc Elrich"",""Open"",""Elrich"",0.94,0.95,0.07,0.93,0.05,0.91
+8014,30956,""https://az620379.vo.msecnd.net/images/Contracts/small_fa08621f-3786-4d91-832a-238879ff4c09.jpg"",""NA"",""David Blair"",""Open"",""Blair"",0.06,0.11,0.94,0.06,0.89,0.07
+8014,30957,""https://az620379.vo.msecnd.net/images/Contracts/small_fa08621f-3786-4d91-832a-238879ff4c09.jpg"",""NA"",""Hans Riemer"",""Open"",""Riemer"",0.01,0.01,null,null,0.99,0.01
+8019,30987,""https://az620379.vo.msecnd.net/images/Contracts/small_c501ab93-d4f7-4167-9926-21903807b63b.jpg"",""N/A"",""Rishi Sunak"",""Open"",""Sunak"",0.04,0.05,0.96,0.04,0.95,0.04
+8019,30988,""https://az620379.vo.msecnd.net/images/Contracts/small_403f6315-080c-46c1-bcc9-060742d51fcd.png"",""N/A"",""Liz Truss"",""Open"",""Truss"",0.96,0.96,0.05,0.95,0.04,0.96
+8019,30989,""https://az620379.vo.msecnd.net/images/Contracts/small_97445f2f-435c-4036-b69e-5ba71282db69.png"",""N/A"",""Tom Tugendhat"",""Open"",""Tugendhat"",0.01,0.01,null,null,0.99,0.01
+8019,30990,""https://az620379.vo.msecnd.net/images/Contracts/small_ab6d7677-4367-42d8-b9fc-a1401b7c1134.png"",""N/A"",""Kemi Badenoch"",""Open"",""Badenoch"",0.01,0.01,null,null,0.99,0.01
+8019,30991,""https://az620379.vo.msecnd.net/images/Contracts/small_48732c68-61b3-4772-90f9-a2d1e9ca08c6.png"",""N/A"",""Penny Mordaunt"",""Open"",""Mordaunt"",0.01,0.01,null,null,0.99,0.01
+7456,31066,""https://az620379.vo.msecnd.net/images/Contracts/small_a898b196-9a0f-454e-99fe-36e21c62f343.jpg"",""NA"",""Gavin Newsom"",""Open"",""Newsom"",0.07,0.08,0.93,0.07,0.92,0.08
+7057,31067,""https://az620379.vo.msecnd.net/images/Contracts/small_4d57e9a8-9b8f-4b3b-ae34-807f40b11759.png"",""NA"",""JB Pritzker"",""Open"",""Pritzker"",0.03,0.04,0.97,0.03,0.96,0.03
+8042,31092,""https://az620379.vo.msecnd.net/images/Contracts/small_76ae1112-d7aa-4ffa-bd2b-8bbd35699013.jpg"",""NA"",""Will the Alaska at-large first round leader also win the special election?"",""Open"",""First round leader wins AK-AL election?"",0.18,0.19,0.83,0.17,0.81,0.27
+8043,31093,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Lisa Murkowski"",""Open"",""Murkowski"",0.99,0.99,0.02,0.98,0.01,0.98
+8043,31094,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Kelly Tshibaka"",""Open"",""Tshibaka"",0.01,0.02,0.99,0.01,0.98,0.01
+8043,31095,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Edgar Blatchford"",""Open"",""Blatchford"",0.01,0.01,null,null,0.99,0.01
+8044,31096,""https://az620379.vo.msecnd.net/images/Contracts/small_c2ae8b21-a2ea-4177-8b63-bae2053741dc.png"",""NA"",""Nick Begich III"",""Open"",""Begich"",0.01,0.01,null,null,0.99,0.01
+8044,31097,""https://az620379.vo.msecnd.net/images/Contracts/small_52e41473-286d-484a-b716-1f29fb919397.png"",""NA"",""Sarah Palin"",""Open"",""Palin"",0.01,0.01,null,null,0.99,0.01
+8044,31098,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Mary Peltola"",""Open"",""Peltola"",0.99,null,0.01,0.99,null,0.99
+8046,31109,""https://az620379.vo.msecnd.net/images/Contracts/small_12f6b79e-2621-42d2-ac4f-7780025d7ca4.jpg"",""NA"",""4.5% to 6%"",""Open"",""4.5% to 6%"",0.99,null,0.01,0.99,null,0.98
+8046,31110,""https://az620379.vo.msecnd.net/images/Contracts/small_12f6b79e-2621-42d2-ac4f-7780025d7ca4.jpg"",""NA"",""3% to 4.5%"",""Open"",""3% to 4.5%"",0.01,0.01,null,null,0.99,0.01
+8046,31111,""https://az620379.vo.msecnd.net/images/Contracts/small_12f6b79e-2621-42d2-ac4f-7780025d7ca4.jpg"",""NA"",""1.5% to 3%"",""Open"",""1.5% to 3%"",0.01,0.01,null,null,0.99,0.01
+8046,31112,""https://az620379.vo.msecnd.net/images/Contracts/small_12f6b79e-2621-42d2-ac4f-7780025d7ca4.jpg"",""NA"",""< 1.5%"",""Open"",""< 1.5%"",0.01,0.01,null,null,0.99,0.01
+8046,31113,""https://az620379.vo.msecnd.net/images/Contracts/small_12f6b79e-2621-42d2-ac4f-7780025d7ca4.jpg"",""NA"",""6% to 7.5%"",""Open"",""6% to 7.5%"",0.01,0.01,null,null,0.99,0.01
+8046,31114,""https://az620379.vo.msecnd.net/images/Contracts/small_12f6b79e-2621-42d2-ac4f-7780025d7ca4.jpg"",""NA"",""7.5% to 9%"",""Open"",""7.5% to 9%"",0.01,0.01,null,null,0.99,0.01
+8046,31115,""https://az620379.vo.msecnd.net/images/Contracts/small_12f6b79e-2621-42d2-ac4f-7780025d7ca4.jpg"",""NA"",""9% to 10.5%"",""Open"",""9% to 10.5%"",0.01,0.01,null,null,0.99,0.01
+8046,31116,""https://az620379.vo.msecnd.net/images/Contracts/small_12f6b79e-2621-42d2-ac4f-7780025d7ca4.jpg"",""NA"",""10.5% to 12%"",""Open"",""10.5% to 12%"",0.01,0.01,null,null,0.99,0.01
+8046,31117,""https://az620379.vo.msecnd.net/images/Contracts/small_12f6b79e-2621-42d2-ac4f-7780025d7ca4.jpg"",""NA"",""12% to 13.5%"",""Open"",""12% to 13.5%"",0.01,0.01,null,null,0.99,0.01
+8046,31118,""https://az620379.vo.msecnd.net/images/Contracts/small_12f6b79e-2621-42d2-ac4f-7780025d7ca4.jpg"",""NA"",""≥ 13.5%"",""Open"",""≥ 13.5%"",0.01,0.01,null,null,0.99,0.01
+8051,31151,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""33.5% to 35%"",""Open"",""33.5% to 35%"",0.01,0.01,null,null,0.99,0.01
+8051,31152,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""32% to 33.5%"",""Open"",""32% to 33.5%"",0.01,0.01,null,null,0.99,0.01
+8051,31153,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""30.5% to 32%"",""Open"",""30.5% to 32%"",0.01,0.01,null,null,0.99,0.01
+8051,31154,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""29% to 30.5%"",""Open"",""29% to 30.5%"",0.02,0.04,0.98,0.02,0.96,0.05
+8051,31155,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""39.5% to 41%"",""Open"",""39.5% to 41%"",0.01,0.01,null,null,0.99,0.01
+8051,31156,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""38% to 39.5%"",""Open"",""38% to 39.5%"",0.01,0.01,null,null,0.99,0.01
+8051,31157,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""36.5% to 38%"",""Open"",""36.5% to 38%"",0.01,0.01,null,null,0.99,0.01
+8051,31158,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""35% to 36.5%"",""Open"",""35% to 36.5%"",0.01,0.01,null,null,0.99,0.01
+8051,31159,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""< 29%"",""Open"",""< 29%"",0.97,0.97,0.05,0.95,0.03,0.97
+8051,31160,""https://az620379.vo.msecnd.net/images/Contracts/small_933bac49-93a0-4bcc-9925-f92117250c67.png"",""NA"",""≥ 41%"",""Open"",""≥ 41%"",0.01,0.01,null,null,0.99,0.01
+8052,31161,""https://az620379.vo.msecnd.net/images/Contracts/small_f042e761-4dfe-4273-afc8-a663b979618e.jpg"",""NA"",""4.5% to 6%"",""Open"",""4.5% to 6%"",0.01,0.01,null,null,0.99,0.01
+8052,31162,""https://az620379.vo.msecnd.net/images/Contracts/small_f042e761-4dfe-4273-afc8-a663b979618e.jpg"",""NA"",""3% to 4.5%"",""Open"",""3% to 4.5%"",0.01,0.01,null,null,0.99,0.01
+8052,31163,""https://az620379.vo.msecnd.net/images/Contracts/small_f042e761-4dfe-4273-afc8-a663b979618e.jpg"",""NA"",""13.5% to 15%"",""Open"",""13.5% to 15%"",0.01,0.01,null,null,0.99,0.01
+8052,31164,""https://az620379.vo.msecnd.net/images/Contracts/small_f042e761-4dfe-4273-afc8-a663b979618e.jpg"",""NA"",""< 3%"",""Open"",""< 3%"",0.01,0.01,null,null,0.99,0.01
+8052,31165,""https://az620379.vo.msecnd.net/images/Contracts/small_f042e761-4dfe-4273-afc8-a663b979618e.jpg"",""NA"",""6% to 7.5%"",""Open"",""6% to 7.5%"",0.01,0.01,null,null,0.99,0.01
+8052,31166,""https://az620379.vo.msecnd.net/images/Contracts/small_f042e761-4dfe-4273-afc8-a663b979618e.jpg"",""NA"",""7.5% to 9%"",""Open"",""7.5% to 9%"",0.01,0.01,null,null,0.99,0.01
+8052,31167,""https://az620379.vo.msecnd.net/images/Contracts/small_f042e761-4dfe-4273-afc8-a663b979618e.jpg"",""NA"",""9% to 10.5%"",""Open"",""9% to 10.5%"",0.01,0.01,null,null,0.99,0.01
+8052,31168,""https://az620379.vo.msecnd.net/images/Contracts/small_f042e761-4dfe-4273-afc8-a663b979618e.jpg"",""NA"",""10.5% to 12%"",""Open"",""10.5% to 12%"",0.01,0.01,null,null,0.99,0.01
+8052,31169,""https://az620379.vo.msecnd.net/images/Contracts/small_f042e761-4dfe-4273-afc8-a663b979618e.jpg"",""NA"",""12% to 13.5%"",""Open"",""12% to 13.5%"",0.01,0.01,null,null,0.99,0.01
+8052,31170,""https://az620379.vo.msecnd.net/images/Contracts/small_f042e761-4dfe-4273-afc8-a663b979618e.jpg"",""NA"",""≥ 15%"",""Open"",""≥ 15%"",0.99,null,0.01,0.99,null,0.99
+8054,31180,""https://az620379.vo.msecnd.net/images/Contracts/small_c2ae8b21-a2ea-4177-8b63-bae2053741dc.png"",""NA"",""Nick Begich III"",""Open"",""Begich"",0.01,0.01,null,null,0.99,0.01
+8054,31181,""https://az620379.vo.msecnd.net/images/Contracts/small_52e41473-286d-484a-b716-1f29fb919397.png"",""NA"",""Sarah Palin"",""Open"",""Palin"",0.16,0.21,0.82,0.18,0.79,0.2
+8054,31182,""https://az620379.vo.msecnd.net/images/Contracts/small_5ec26d95-b3bf-477f-82c7-3c9abc804410.jpg"",""NA"",""Mary Peltola"",""Open"",""Peltola"",0.81,0.82,0.19,0.81,0.18,0.81
+8055,31183,""https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg"",""NA"",""4.5% to 6%"",""Open"",""4.5% to 6%"",0.01,0.01,null,null,0.99,0.01
+8055,31184,""https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg"",""NA"",""3% to 4.5%"",""Open"",""3% to 4.5%"",0.01,0.01,null,null,0.99,0.01
+8055,31185,""https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg"",""NA"",""1.5% to 3%"",""Open"",""1.5% to 3%"",0.01,0.01,null,null,0.99,0.01
+8055,31186,""https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg"",""NA"",""< 1.5%"",""Open"",""< 1.5%"",0.01,0.01,null,null,0.99,0.01
+8055,31187,""https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg"",""NA"",""6% to 7.5%"",""Open"",""6% to 7.5%"",0.01,0.01,null,null,0.99,0.01
+8055,31188,""https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg"",""NA"",""7.5% to 9%"",""Open"",""7.5% to 9%"",0.01,0.01,null,null,0.99,0.01
+8055,31189,""https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg"",""NA"",""9% to 10.5%"",""Open"",""9% to 10.5%"",0.01,0.01,null,null,0.99,0.01
+8055,31190,""https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg"",""NA"",""10.5% to 12%"",""Open"",""10.5% to 12%"",0.99,null,0.01,0.99,null,0.99
+8055,31191,""https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg"",""NA"",""12% to 13.5%"",""Open"",""12% to 13.5%"",0.01,0.01,null,null,0.99,0.01
+8055,31192,""https://az620379.vo.msecnd.net/images/Contracts/small_6854cdad-81e5-4591-b5b2-36449f865eb3.jpg"",""NA"",""≥ 13.5%"",""Open"",""≥ 13.5%"",0.01,0.01,null,null,0.99,0.01
