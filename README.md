@@ -8,3 +8,13 @@
 •	Displayed the OLAP data from ADS level with tables and visuals in Power BI.
 
 Data are in csv file format, Spark SQL for Databricks, and Power BI dashboard.
+
+#Data engineering in Airflow, Snowflake, and Tableau
+•	Scraped down election prediction JSON data to local storage in Python and deployed on Airflow (Docker).
+
+•	Loaded JSON data into Snowflake with SnowSQL, Parsed JSON data to create two tables, and automated with Snowflake tasks.
+
+•	Visualized the two tables in Tableau with labels, filters, and actions to webpage.
+
+Downloaded data samples and snowflake output data samples, Snowflake SQL script, Airflow Python script.
+
